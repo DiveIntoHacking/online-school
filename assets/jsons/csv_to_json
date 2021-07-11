@@ -1,0 +1,24 @@
+#!/usr/bin/env ruby
+
+require 'csv'
+require 'json'
+require 'pry-byebug'
+
+SCORE = 3
+COMMENT = 4
+
+csv_string = File.read('./original.csv')
+
+csv = CSV.parse(csv_string, headers: true, liberal_parsing: true)
+
+# SCOREが5以上でコメント付きのものを抽出
+selected_records = csv.select do |record|
+  score = Float(record[SCORE])
+  score >= 5 && record[COMMENT]
+end
+
+json = selected_records.map(&:to_h).to_json
+
+File.open('five-star-testimonials.json', 'w') do |file|
+  file.write json
+end

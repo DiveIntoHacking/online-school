@@ -1,0 +1,2011 @@
+[
+  {
+    "Course Name": "ハンズオンで学ぶTypeScript - JavaScript エンジニアのためのTypeScript徹底入門",
+    "Student Name": "K Ebara",
+    "Timestamp": "2021-06-29 04:31:39+00:00",
+    "Rating": "5.0",
+    "Comment": "はむさんの講座を始めて受講しましたが、説明が明快で的を射ており非常に学習しやすかったです。\n初心者への配慮からか説明がやや冗長な印象ですが、その分確実に段階を踏んで理解を深められますし、倍速で手を動かしながら受講すれば問題ありませんでした。\n\ngitによるソースコードの管理や環境構築についても、極力つまずきを減らす工夫がされていると感じました。\n\nReactの章でVirtualBox上のUbuntuでDockerを起動するのは二度手間かもと思ったのですが、Mac OSでも普通に動いて快適に受講できました(他の人も同様に動くことは保証できませんが)。\n\nnodeのバージョンが12系から更新されていないのが少し気になりますが、講座の内容自体はバージョンに関わらず有用だと思います。"
+  },
+  {
+    "Course Name": "Firebase未経験者のためのReactで作るチャットアプリ開発入門！最速最短でゴール到達！",
+    "Student Name": "k ishi",
+    "Timestamp": "2021-06-27 13:30:19+00:00",
+    "Rating": "5.0",
+    "Comment": "作る前に実際に動くものを見せた後に作るというやり方が良かったです。googleからの検索からドキュメントを見せながらの説明がよかったです。ただ、javascriptではなく、typescriptで受けたかったのですが、非常にわかりやすかったので、星5に変更しました。\n今後、補足としてtypescriptにする場合の講座を追加してくれると嬉しいです。"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "Taishin Sato",
+    "Timestamp": "2021-06-21 14:48:03+00:00",
+    "Rating": "5.0",
+    "Comment": "わかりやすい"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "Tada",
+    "Timestamp": "2021-06-12 16:57:25+00:00",
+    "Rating": "5.0",
+    "Comment": "とても実践的でした。なぜそうしているのか、実感を込めて語ってくれるのがうれしいです。こうした動画での学習は始めてでしたが、不安なく完走できました。"
+  },
+  {
+    "Course Name": "ハンズオンで学ぶTypeScript - JavaScript エンジニアのためのTypeScript徹底入門",
+    "Student Name": "Naka Sho",
+    "Timestamp": "2021-06-12 15:23:08+00:00",
+    "Rating": "5.0",
+    "Comment": "基本から応用まで、またReactに対する実践レベルまで学べるオールインワンな講座でした。全体の構成も項目ごとに適切に整理されていたので立ち返りやすい（復習しやすい）と思います。"
+  },
+  {
+    "Course Name": "ハンズオンで学ぶTypeScript - JavaScript エンジニアのためのTypeScript徹底入門",
+    "Student Name": "上田竜次",
+    "Timestamp": "2021-06-08 21:23:13+00:00",
+    "Rating": "5.0",
+    "Comment": "細かく処理の目的が説明されていて分かりやすいです。"
+  },
+  {
+    "Course Name": "ハンズオンで学ぶTypeScript - JavaScript エンジニアのためのTypeScript徹底入門",
+    "Student Name": "江口 弘樹",
+    "Timestamp": "2021-05-25 00:37:38+00:00",
+    "Rating": "5.0",
+    "Comment": "Typescriptの位置付けや人気になってきている点についても理解することができた。"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "Nobuo Imai",
+    "Timestamp": "2021-05-22 08:00:33+00:00",
+    "Rating": "5.0",
+    "Comment": "丁寧な説明で、かつ一緒にコードを書いて進めるので、動画を止める回数が少なく、快適に学べます。"
+  },
+  {
+    "Course Name": "モジュールバンドラー webpack を1日で習得！フルスクラッチでインストールからカスタマイズまでを理解する",
+    "Student Name": "makiko kono",
+    "Timestamp": "2021-05-12 08:56:17+00:00",
+    "Rating": "5.0",
+    "Comment": "Webpackでの開発があり、何度も見返しました。初心者の方におすすめの講座です。"
+  },
+  {
+    "Course Name": "ハンズオンで学ぶTypeScript - JavaScript エンジニアのためのTypeScript徹底入門",
+    "Student Name": "Hametsuno",
+    "Timestamp": "2021-05-07 21:50:25+00:00",
+    "Rating": "5.0",
+    "Comment": "素のJavaScriptとの違いが明確でとても楽しく勉強させてもらいました。"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "Azusa Okamoto",
+    "Timestamp": "2021-05-05 04:10:07+00:00",
+    "Rating": "5.0",
+    "Comment": "React Hooksを仕事で使うことになり、急ぎで学習したく、1.25倍速や1.5倍速で調整しながら聴かせて頂いたのですが、話す速度が丁度よく、倍速でも聞き取りやすかったです。\n公式ドキュメントを一緒に確認して頂くような部分もあり、モチベーションも維持しやすかったです。\n非常に勉強になりました。\nありがとうございました。\n早速、React Hooksを使って、個人開発に挑戦して、理解を深めたいと思いました！"
+  },
+  {
+    "Course Name": "Firebase未経験者のためのReactで作るチャットアプリ開発入門！最速最短でゴール到達！",
+    "Student Name": "fukuda masa",
+    "Timestamp": "2021-05-04 16:48:58+00:00",
+    "Rating": "5.0",
+    "Comment": "firebaseとReactで、こんなことができるのか！ということを体験できる非常に良い内容でした"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "Naoki Iwashima",
+    "Timestamp": "2021-04-26 02:21:34+00:00",
+    "Rating": "5.0",
+    "Comment": "コーディングもコピペなしで講師の方がその場で実際にタイプするので、その過程で生じたエラー解決なども現場に即して参考になります。"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのためのGraphQL with React 入門",
+    "Student Name": "Takuya Mukohira",
+    "Timestamp": "2021-04-24 12:24:15+00:00",
+    "Rating": "5.0",
+    "Comment": "わかりやすい。\nclass-based componentだった点がちょっと残念"
+  },
+  {
+    "Course Name": "ハンズオンで学ぶTypeScript - JavaScript エンジニアのためのTypeScript徹底入門",
+    "Student Name": "Naoki Iwashima",
+    "Timestamp": "2021-04-14 07:12:37+00:00",
+    "Rating": "5.0",
+    "Comment": "TSの各要素について丁寧に解説され、だいぶ理解が深まりました。最後はReactでの適用例も出てきます。"
+  },
+  {
+    "Course Name": "ハンズオンで学ぶTypeScript - JavaScript エンジニアのためのTypeScript徹底入門",
+    "Student Name": "Daisuke Wada",
+    "Timestamp": "2021-04-14 06:55:20+00:00",
+    "Rating": "5.0",
+    "Comment": "TypeScript開発に必要＆あると便利なnodeモジュールの紹介があり、すんなりと入門することが出来ました。\n内容は初歩的な内容から始まり、最終的にReactでTSを使う方法が学べてとても良かったです。\nReactに関しては、hooksに対してどういう型を定義すれば良いのかを調べる方法が紹介されているため、ReactでTSを導入してみたい方はぜひ受講してみてください！"
+  },
+  {
+    "Course Name": "ハンズオンで学ぶTypeScript - JavaScript エンジニアのためのTypeScript徹底入門",
+    "Student Name": "Eisuke Takeuchi",
+    "Timestamp": "2021-04-11 18:28:23+00:00",
+    "Rating": "5.0",
+    "Comment": "全般的に、すこぶる丁寧に、徹底的に、わかりやすく教えてくれます。コース後半では、適宜、型の定義元のソースコードを開き説明等してくれるので、応用力も養えると思います。\n\nまた、概要欄に記述されている、はむさん（講師）のUdemyのコースに対する思いには、大変感銘を受けました。"
+  },
+  {
+    "Course Name": "Firebase未経験者のためのReactで作るチャットアプリ開発入門！最速最短でゴール到達！",
+    "Student Name": "Ryo K",
+    "Timestamp": "2021-04-11 13:14:10+00:00",
+    "Rating": "5.0",
+    "Comment": "progate、udemyの他の講師のreact講座、ときてこの講座を受講しました。ハンズオンでサクサク進み、説明もとてもわかり易かったです。またセールが来たらはむさんの別の講座を受講したいと思いました。"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "cryptobox chan",
+    "Timestamp": "2021-03-29 07:14:34+00:00",
+    "Rating": "5.0",
+    "Comment": "今まで受けたUdemyの講座の中で最も満足度の高い講義でした。ハンズオン形式で進んでいくので、楽しく飽きることなく一気に進めることができました。バックエンドとの連携についてもはむさんから学びたいので期待しています。"
+  },
+  {
+    "Course Name": "ハンズオンで学ぶTypeScript - JavaScript エンジニアのためのTypeScript徹底入門",
+    "Student Name": "フジイケイシ",
+    "Timestamp": "2021-03-25 00:08:21+00:00",
+    "Rating": "5.0",
+    "Comment": "説明が非常に丁寧。\n遅いと感じれば再生速度を調整するだけで非常に自分にあった速度で学習できる。\nreactと一緒にどうやって使うのかを学べるのが一番学習するのにおすすめできる要素"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "永田圭",
+    "Timestamp": "2021-03-21 03:10:36+00:00",
+    "Rating": "5.0",
+    "Comment": "画面で実際の動きを確認しながら学べるので、本よりも理解が早く進みます。"
+  },
+  {
+    "Course Name": "Firebase未経験者のためのReactで作るチャットアプリ開発入門！最速最短でゴール到達！",
+    "Student Name": "谷内 智啓",
+    "Timestamp": "2021-03-20 17:30:14+00:00",
+    "Rating": "5.0",
+    "Comment": "初心者の方には難しい内容だと思います。挫けずに動画を見返して進めていくのがいいです。丁寧に説明されているのでなんとかできるかと思います。"
+  },
+  {
+    "Course Name": "Firebase未経験者のためのReactで作るチャットアプリ開発入門！最速最短でゴール到達！",
+    "Student Name": "鈴木大",
+    "Timestamp": "2021-03-20 09:58:22+00:00",
+    "Rating": "5.0",
+    "Comment": "node.jsやgitなどの知識が必要になりますが、とても参考になりました。\n特に、es6の記法で書かれたコードが「今っぽい」感じで参考になりました。"
+  },
+  {
+    "Course Name": "ハンズオンで学ぶTypeScript - JavaScript エンジニアのためのTypeScript徹底入門",
+    "Student Name": "大輔 田代",
+    "Timestamp": "2021-03-18 14:44:10+00:00",
+    "Rating": "5.0",
+    "Comment": "TypeScriptを体系的に学べるだけでなく、JavaScriptの復習にもなります。これから開発で使用したいと思っている方は受講して損なしです！"
+  },
+  {
+    "Course Name": "ReactとFirebase とWebRTCで P2P ビデオ会議システムを開発しよう！",
+    "Student Name": "祐亮 佐竹",
+    "Timestamp": "2021-03-16 22:44:46+00:00",
+    "Rating": "5.0",
+    "Comment": "わかりやすい！"
+  },
+  {
+    "Course Name": "ReactとFirebase とWebRTCで P2P ビデオ会議システムを開発しよう！",
+    "Student Name": "N Iwata",
+    "Timestamp": "2021-03-16 03:34:44+00:00",
+    "Rating": "5.0",
+    "Comment": "WebRTCを学びたいと思っていたのでドンピシャの講座でした。"
+  },
+  {
+    "Course Name": "Firebase未経験者のためのReactで作るチャットアプリ開発入門！最速最短でゴール到達！",
+    "Student Name": "永田圭",
+    "Timestamp": "2021-03-14 02:35:52+00:00",
+    "Rating": "5.0",
+    "Comment": "UI画面を確認しながらかつコンソール動作やネットワークを逐次確認していただけるのでとても理解しやすいです"
+  },
+  {
+    "Course Name": "ハンズオンで学ぶTypeScript - JavaScript エンジニアのためのTypeScript徹底入門",
+    "Student Name": "やしん",
+    "Timestamp": "2021-03-12 05:26:16+00:00",
+    "Rating": "5.0",
+    "Comment": "学習意欲を搔き立てる構成になっており、話し方もとても聞きやすくてありがたかったです。"
+  },
+  {
+    "Course Name": "モジュールバンドラー webpack を1日で習得！フルスクラッチでインストールからカスタマイズまでを理解する",
+    "Student Name": "kim kos",
+    "Timestamp": "2021-03-07 10:41:54+00:00",
+    "Rating": "5.0",
+    "Comment": "非常にコンパクトにまとまっていて勉強になりました。"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "Hideto Shuto",
+    "Timestamp": "2021-03-01 10:18:55+00:00",
+    "Rating": "5.0",
+    "Comment": "非常に分かり易く丁寧な講義でした。また受講者からの質問に対しても、親切に真摯に回答されている姿に感心致しました。これから当講義をもう1周して、講義内容をしっかり自分のものにしたいと思います。ありがとうございました！"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "社会福祉法人 立華学苑",
+    "Timestamp": "2021-03-01 00:03:17+00:00",
+    "Rating": "5.0",
+    "Comment": "React・Reduxアプリケーション開発入門のReactから受講し、今回、React Hooks入門を受講しました。\nJavascriptの知識がそれなりに必要だということを知り、Javascriptの知識を得てから受けた方が良いと感じました。\nとてもわかりやすい内容で、\n次は、Firebase未経験者のためのReactのアプリケーションにチャレンジします。"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "正木敬人",
+    "Timestamp": "2021-02-27 10:39:14+00:00",
+    "Rating": "5.0",
+    "Comment": "hooksを初めて触ったが、講義が想像以上に丁寧で助かった。講義の途中でreduxが出てくるのでこの講義を受けるか迷っている人は先にreduxを勉強することをおすすめする。"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "増戸潤弥",
+    "Timestamp": "2021-02-24 08:04:33+00:00",
+    "Rating": "5.0",
+    "Comment": "ReduxとHooksを学び、理解を深めるのにとても参考になります。"
+  },
+  {
+    "Course Name": "ハンズオンで学ぶTypeScript - JavaScript エンジニアのためのTypeScript徹底入門",
+    "Student Name": "Ryu_Fujiwara",
+    "Timestamp": "2021-02-22 10:13:23+00:00",
+    "Rating": "5.0",
+    "Comment": "TypeScriptが、JavaScriptより優れているところを明確に教えてくれるので、とても参考になります、また、後半ではReactを使用したアプリケーション開発があるので、おすすめです。"
+  },
+  {
+    "Course Name": "ハンズオンで学ぶTypeScript - JavaScript エンジニアのためのTypeScript徹底入門",
+    "Student Name": "樋口能敬",
+    "Timestamp": "2021-02-22 00:52:43+00:00",
+    "Rating": "5.0",
+    "Comment": "非常に聞きやすい内容でした。"
+  },
+  {
+    "Course Name": "ハンズオンで学ぶTypeScript - JavaScript エンジニアのためのTypeScript徹底入門",
+    "Student Name": "T_hirai",
+    "Timestamp": "2021-02-21 04:20:51+00:00",
+    "Rating": "5.0",
+    "Comment": "とても勉強になりました。ありがとう御座いました。"
+  },
+  {
+    "Course Name": "ハンズオンで学ぶTypeScript - JavaScript エンジニアのためのTypeScript徹底入門",
+    "Student Name": "Masa Hada",
+    "Timestamp": "2021-02-09 14:12:06+00:00",
+    "Rating": "5.0",
+    "Comment": "手を動かすことや問題解決にも解説頂けることに期待しております。"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "Daisuke Saito",
+    "Timestamp": "2021-02-09 11:51:42+00:00",
+    "Rating": "5.0",
+    "Comment": "hooks,reducerについて学びながら、リファクタリングしていくことで、reactのきれいなコードの書き方も学べます。"
+  },
+  {
+    "Course Name": "Firebase未経験者のためのReactで作るチャットアプリ開発入門！最速最短でゴール到達！",
+    "Student Name": "葉子 岩崎",
+    "Timestamp": "2021-02-01 04:11:14+00:00",
+    "Rating": "5.0",
+    "Comment": "Reactのみではなく、gitの作法、vimも勉強になりました。"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "染谷亮介",
+    "Timestamp": "2021-01-28 02:39:05+00:00",
+    "Rating": "5.0",
+    "Comment": "声が聞き取りやすさ、スピードが自分にはちょうどよくストレスなく受講できた。\n解説も丁寧で、今までよくわかっていなかったReducerやActionについての理解を深めることができた。\nこの講座を受けたことで、よりReactの理解を深めていけるという手応を得られました。"
+  },
+  {
+    "Course Name": "Firebase未経験者のためのReactで作るチャットアプリ開発入門！最速最短でゴール到達！",
+    "Student Name": "SHO IKEDA",
+    "Timestamp": "2021-01-20 14:57:09+00:00",
+    "Rating": "5.0",
+    "Comment": "React Hooksについても学べてよかった"
+  },
+  {
+    "Course Name": "Firebase未経験者のためのReactで作るチャットアプリ開発入門！最速最短でゴール到達！",
+    "Student Name": "Masato",
+    "Timestamp": "2021-01-20 01:54:55+00:00",
+    "Rating": "5.0",
+    "Comment": "本講座、大変わかりやすく最初から最後まで楽しみながら学習することができました。\nはむさんの他講座も受けてみようと思います。\nこれからもお世話になります..！"
+  },
+  {
+    "Course Name": "Firebase未経験者のためのReactで作るチャットアプリ開発入門！最速最短でゴール到達！",
+    "Student Name": "阿部毅宏",
+    "Timestamp": "2021-01-13 09:11:00+00:00",
+    "Rating": "5.0",
+    "Comment": "GitやVimなど調べながら最後まで終えることができました。デプロイが難しくもう少し理解を深めたいと思います。最後まで楽しく学習できました。"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "Yohei Tanaka",
+    "Timestamp": "2021-01-09 06:59:36+00:00",
+    "Rating": "5.0",
+    "Comment": "丁寧に解説されてました！"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "jun tech",
+    "Timestamp": "2021-01-08 10:19:09+00:00",
+    "Rating": "5.0",
+    "Comment": "丁寧な説明でコードを書く速度はゆっくりなので、動画を見逃して必要なコードを書き損じるということはないと思います。\nReactの知識があるのは前提ですが、初めてHooksを学ぶ方に優しい内容です。"
+  },
+  {
+    "Course Name": "ハンズオンで学ぶTypeScript - JavaScript エンジニアのためのTypeScript徹底入門",
+    "Student Name": "吉田直輝",
+    "Timestamp": "2021-01-05 14:37:54+00:00",
+    "Rating": "5.0",
+    "Comment": "なぜこの型の定義になるのか？というところ、深堀りしながら説明を行っているので、理解度が上がりました。"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのためのGraphQL with React 入門",
+    "Student Name": "Yuuki",
+    "Timestamp": "2021-01-05 08:02:33+00:00",
+    "Rating": "5.0",
+    "Comment": "すばらしい！！"
+  },
+  {
+    "Course Name": "モジュールバンドラー webpack を1日で習得！フルスクラッチでインストールからカスタマイズまでを理解する",
+    "Student Name": "Chise Mori",
+    "Timestamp": "2021-01-02 19:29:28+00:00",
+    "Rating": "5.0",
+    "Comment": "webpackの扱い方について知ることができました。\n設定方法や別で調べる予定だったeslintについても知ることができたので非常に満足です！"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "Yutaka Tsumura",
+    "Timestamp": "2021-01-02 07:50:14+00:00",
+    "Rating": "5.0",
+    "Comment": "とてもわかりやすかったです。\nReactは初めてでしたが、問題なくついていけました。"
+  },
+  {
+    "Course Name": "Firebase未経験者のためのReactで作るチャットアプリ開発入門！最速最短でゴール到達！",
+    "Student Name": "遠藤 憲",
+    "Timestamp": "2021-01-01 02:18:51+00:00",
+    "Rating": "5.0",
+    "Comment": "Firebaseを知っている人でもenvファイルの管理方法は眼から鱗でした。とてもおすすめのコースです！"
+  },
+  {
+    "Course Name": "ハンズオンで学ぶTypeScript - JavaScript エンジニアのためのTypeScript徹底入門",
+    "Student Name": "Kamiya-S-Max",
+    "Timestamp": "2020-12-29 00:06:32+00:00",
+    "Rating": "5.0",
+    "Comment": "TypeScript側で定義している箇所まで見に行き、コピーして実際にいじって実装を確かめる箇所が随所にあるため、エラーの調査や機能の検証する際の手順も学習できた。"
+  },
+  {
+    "Course Name": "Firebase未経験者のためのReactで作るチャットアプリ開発入門！最速最短でゴール到達！",
+    "Student Name": "Yudai Takiguchi",
+    "Timestamp": "2020-12-27 15:45:43+00:00",
+    "Rating": "5.0",
+    "Comment": "Firebaseの敷居がグッと下がりました!!"
+  },
+  {
+    "Course Name": "Firebase未経験者のためのReactで作るチャットアプリ開発入門！最速最短でゴール到達！",
+    "Student Name": "Takuya Endou",
+    "Timestamp": "2020-12-27 06:43:06+00:00",
+    "Rating": "5.0",
+    "Comment": "デフォルトのトーク速度をゆっくりにしてくれているので、適宜こちらで調整出来てよい。\nVueの経験があるのであれば、比較しながらサクサク学べる。\njsの基本理解があれば、こう書けば、こう動くという部分まで学べると思う。\nfirebaseについても、とても分かりやすかった。\nuseStateや、useEffectのソースコード読みながら、詳細に挙動を解説してくれるおまけなどあると\nより嬉しかった。"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのためのGraphQL with React 入門",
+    "Student Name": "松本一将 松本",
+    "Timestamp": "2020-12-22 12:02:53+00:00",
+    "Rating": "5.0",
+    "Comment": "ありがとうございます！！"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "Taniguchi Takuya",
+    "Timestamp": "2020-12-20 10:50:53+00:00",
+    "Rating": "5.0",
+    "Comment": "どこをどのように書くと何ができるかという点が明確でわかりやすい。またReactを動かしているwebpackやbabel、名前は知っていたが何をしているかまで知らなかったので知識として知ることができよかった。"
+  },
+  {
+    "Course Name": "ハンズオンで学ぶTypeScript - JavaScript エンジニアのためのTypeScript徹底入門",
+    "Student Name": "Go Nishiduka",
+    "Timestamp": "2020-12-18 07:39:12+00:00",
+    "Rating": "5.0",
+    "Comment": "とても良かったです。普段、javascriptを書いてるのですが世間の流れ的にTypescriptをやらないとダメだと思い受講させていただきました。\n\n■:個人的に良かった点\n・型定義のジェネリクスの箇所、<T,U>など、とても混乱していたのが、VSCodeで定義元に遡って１つずつ紐解いて教えてくれている所。\n・VSCode、Node.js、npm、セッティングの所を本質からきちんとレクチャーしている点。私は未経験ではないですがそれでも勉強になりました。\n・Reactも講義の中に入っている所。\n・Typescriptとは関係ないですが、githubへのpushへの一連のコマンドの流れが知れた（普段Source Treeを使っていていたので、こんな便利なコマンドがあったのか、と知れた）\n・話し方が聞きやすい。\n\n全体的に、本質から理解させようとしてくださっているなと感じました。端折って公式だけ練習しても仕事では頓挫してしまうので、基礎の重要性を再認識しました。\n個人的には、Typescriptはかなり難易度が高く、これからも壁にぶつかると思うので、その度にまたこの動画をリファレンスとして活用させていただきます。\n\n先生の他の動画も購入したいです。\nありがとうございました。"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "吉田直輝",
+    "Timestamp": "2020-12-17 09:28:41+00:00",
+    "Rating": "5.0",
+    "Comment": "説明が丁寧でわかりやすかった。"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "松本一将 松本",
+    "Timestamp": "2020-12-14 08:20:41+00:00",
+    "Rating": "5.0",
+    "Comment": "ありがとうございました。とてもよくわかりました！"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "松本一将 松本",
+    "Timestamp": "2020-12-11 07:05:09+00:00",
+    "Rating": "5.0",
+    "Comment": "面白かったです！"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "杉浦貴史",
+    "Timestamp": "2020-12-10 10:35:16+00:00",
+    "Rating": "5.0",
+    "Comment": "複雑すぎず、簡単すぎないシンプルなアプリを作成しながらHooksの動きを具体的に確認できたので理解しやすかった。2倍速で見るとサクサク進んでちょうどよかった。"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "根岸 健大",
+    "Timestamp": "2020-12-09 10:59:07+00:00",
+    "Rating": "5.0",
+    "Comment": "とにかく説明がわかりやすく、実際に手を動かしながらなので納得感がある！"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "@ tomoman",
+    "Timestamp": "2020-12-07 12:28:30+00:00",
+    "Rating": "5.0",
+    "Comment": "三項演算子の書き方など、基本を復習できたt。"
+  },
+  {
+    "Course Name": "ハンズオンで学ぶTypeScript - JavaScript エンジニアのためのTypeScript徹底入門",
+    "Student Name": "Yuuki",
+    "Timestamp": "2020-12-06 10:02:34+00:00",
+    "Rating": "5.0",
+    "Comment": "素晴らしい！！😊 😊"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "K D",
+    "Timestamp": "2020-12-06 08:03:19+00:00",
+    "Rating": "5.0",
+    "Comment": "一つ一つのメソッドを丁寧に解説してくれるので、とてもわかりやすいものになっていました。"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "たに しお",
+    "Timestamp": "2020-12-02 14:32:32+00:00",
+    "Rating": "5.0",
+    "Comment": "現場でよく使われるReduxの手法(ex. mapDispatchToPropsにObject形式を用いることなど)がしっかりと説明されていたので良かったです。\n話のテンポもよく、楽しく見れました。"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "maron ta",
+    "Timestamp": "2020-11-29 04:33:25+00:00",
+    "Rating": "5.0",
+    "Comment": "React初心者でしたが、基礎的なことから解説があり大変わかりやすかったです。また、実務でどのようにコードを書けば良いかのイメージもつきやすい講座でした。hooksの仕組みに関しては基礎的な解説にとどまっているので、この講座に取り組んだ後、自身で理解を深める必要がありますが、hooksの使い方のイメージが掴めました。"
+  },
+  {
+    "Course Name": "ハンズオンで学ぶTypeScript - JavaScript エンジニアのためのTypeScript徹底入門",
+    "Student Name": "Hiroyuki Ueno",
+    "Timestamp": "2020-11-27 01:51:03+00:00",
+    "Rating": "5.0",
+    "Comment": "TSの基礎知識の習得に困っており、他の同言語の講座も受けたが、講師の癖などありわかりにくかった。しかし、この講座はTSの基礎知識の理解として自分にあっており、具体例もわかりやすいので初めてTSを取り掛かる教材としておすすめしたい！"
+  },
+  {
+    "Course Name": "Firebase未経験者のためのReactで作るチャットアプリ開発入門！最速最短でゴール到達！",
+    "Student Name": "山口導",
+    "Timestamp": "2020-11-27 00:28:23+00:00",
+    "Rating": "5.0",
+    "Comment": "Firebase未経験の者としては使用方法を理解する上で大変良い教材でした。\nまた、テンポ良く学べます。"
+  },
+  {
+    "Course Name": "Firebase未経験者のためのReactで作るチャットアプリ開発入門！最速最短でゴール到達！",
+    "Student Name": "cawauchi .t",
+    "Timestamp": "2020-11-26 13:43:54+00:00",
+    "Rating": "5.0",
+    "Comment": "素晴らしかったです！！！"
+  },
+  {
+    "Course Name": "Firebase未経験者のためのReactで作るチャットアプリ開発入門！最速最短でゴール到達！",
+    "Student Name": "伊藤利典 Toshinori",
+    "Timestamp": "2020-11-26 04:36:38+00:00",
+    "Rating": "5.0",
+    "Comment": "説明を省略することなく、丁寧に進めてくれので挫折せず完了することができました。是非ともこれを参考にしてポートフォリオ作成してみたいと思います。"
+  },
+  {
+    "Course Name": "Firebase未経験者のためのReactで作るチャットアプリ開発入門！最速最短でゴール到達！",
+    "Student Name": "Yuuki",
+    "Timestamp": "2020-11-23 13:49:58+00:00",
+    "Rating": "5.0",
+    "Comment": "すばらしい！"
+  },
+  {
+    "Course Name": "Firebase未経験者のためのReactで作るチャットアプリ開発入門！最速最短でゴール到達！",
+    "Student Name": "雉子波晶",
+    "Timestamp": "2020-11-18 12:12:02+00:00",
+    "Rating": "5.0",
+    "Comment": "本当にあっという間の8時間で、Firebaseを用いたReactアプリの作り方を学べる良い教材だと思います！"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "Takase",
+    "Timestamp": "2020-11-17 09:47:39+00:00",
+    "Rating": "5.0",
+    "Comment": "すごく分かりやすいです。\n受講しておけば、楽に公式Docを読めると思います。"
+  },
+  {
+    "Course Name": "ハンズオンで学ぶTypeScript - JavaScript エンジニアのためのTypeScript徹底入門",
+    "Student Name": "中島雄介",
+    "Timestamp": "2020-11-16 01:23:08+00:00",
+    "Rating": "5.0",
+    "Comment": "体系的に学べたので、この先にtypescriptを使用する際に、辞書的に確認したり自分でtypescriptの実装コードを読んで確認しようと思える意欲を手に入れたと思います。"
+  },
+  {
+    "Course Name": "ハンズオンで学ぶTypeScript - JavaScript エンジニアのためのTypeScript徹底入門",
+    "Student Name": "Hiroaki",
+    "Timestamp": "2020-11-11 08:38:43+00:00",
+    "Rating": "5.0",
+    "Comment": "細かく解説されていて、TypeScriptはなぜこの様な書き方をするのか紐解いて頂いて大変勉強になりました。理屈はあまりわからなくて良いから、出来るだけ早く実装したい方にとっては少し長く感じる方もいらっしゃると思いますが、私はなぜが解明できるとシチュエーションがイメージできるので良かったです！\nありがとうございました！"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのためのGraphQL with React 入門",
+    "Student Name": "中島雄介",
+    "Timestamp": "2020-11-10 11:34:45+00:00",
+    "Rating": "5.0",
+    "Comment": "graphqlの目指している実装がわかりました。自分でgraphqlサーバーを作成し、クライアントをreactで実装しようとして詰まっていたところだったので役に立ちました。"
+  },
+  {
+    "Course Name": "ハンズオンで学ぶRuby on Rails 6<Action Textを支えるデータベースアソシエーション編>",
+    "Student Name": "shiyosuya ai",
+    "Timestamp": "2020-11-10 09:57:40+00:00",
+    "Rating": "5.0",
+    "Comment": "声が素敵です。聞きやすい"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "Kyosuke Tomoda",
+    "Timestamp": "2020-11-01 05:21:14+00:00",
+    "Rating": "5.0",
+    "Comment": "非常にわかりやすく、hooksの使い方のみならずreactの復習にもなってとても良いです。"
+  },
+  {
+    "Course Name": "Firebase未経験者のためのReactで作るチャットアプリ開発入門！最速最短でゴール到達！",
+    "Student Name": "吉田直輝",
+    "Timestamp": "2020-10-31 10:06:55+00:00",
+    "Rating": "5.0",
+    "Comment": "1つ１つ丁寧に解説されていて、すごくわかりやすかったです。\nこれからfirebaseを１から学習される方におすすめです。"
+  },
+  {
+    "Course Name": "モジュールバンドラー webpack を1日で習得！フルスクラッチでインストールからカスタマイズまでを理解する",
+    "Student Name": "K-m T",
+    "Timestamp": "2020-10-29 13:11:13+00:00",
+    "Rating": "5.0",
+    "Comment": "webpack については以前から意識的に学んでいましたが、今回の講座でまた基礎から理解を深めることができました。\n講座のリリースが少し古いので、パッケージのバージョン等自分で気にしなくてはいけない時もありますが、そのおかげでバージョンへの意識ができ、逆に力がついた気がします。\nお世話になりました！"
+  },
+  {
+    "Course Name": "ハンズオンで学ぶTypeScript - JavaScript エンジニアのためのTypeScript徹底入門",
+    "Student Name": "小川 哲郎",
+    "Timestamp": "2020-10-29 07:12:16+00:00",
+    "Rating": "5.0",
+    "Comment": "分かりやすい！"
+  },
+  {
+    "Course Name": "ハンズオンで学ぶTypeScript - JavaScript エンジニアのためのTypeScript徹底入門",
+    "Student Name": "Takashi Yamaguchi",
+    "Timestamp": "2020-10-27 04:07:44+00:00",
+    "Rating": "5.0",
+    "Comment": "細かい単位で解説されているので、復習しやすい"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "ロペスジョンマーク",
+    "Timestamp": "2020-10-23 13:54:50+00:00",
+    "Rating": "5.0",
+    "Comment": "マジの初心者でターミナルとか使い方もわからんみたいな感じだと最初の雛形作りで動画の通りにやっても上手くいかなかったりして鬼モードに感じるけどそこ超えたら後はスラスラ出来るから良い"
+  },
+  {
+    "Course Name": "ハンズオンで学ぶRuby on Rails 6<Action Textを支えるデータベースアソシエーション編>",
+    "Student Name": "Yoshiki Hidaka",
+    "Timestamp": "2020-10-22 09:53:47+00:00",
+    "Rating": "5.0",
+    "Comment": "Railsのみならず幅広い知識を身に付けることができる。\nプログラミング初心者にはやや難しい内容もあるが、とても有益なので是非チャレンジしてみてほしい。\nまた、話し方もとてもはっきりしており、聞き取りやすく、画面もとても見やすかった。"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "Corpus qeen",
+    "Timestamp": "2020-10-21 14:45:07+00:00",
+    "Rating": "5.0",
+    "Comment": "ReactNativeを通じReactについて多少知識はある経験者で、改めてWebフロント側の知識を仕事で活用するので学び直しと言う形で受講\n\n過不足ない講義として、自信を持って紹介できます"
+  },
+  {
+    "Course Name": "モジュールバンドラー webpack を1日で習得！フルスクラッチでインストールからカスタマイズまでを理解する",
+    "Student Name": "Yutaka Fujii",
+    "Timestamp": "2020-10-19 06:56:18+00:00",
+    "Rating": "5.0",
+    "Comment": "webpackってなんか、あれでしょ、なんかまとめてくれる奴って感覚で、\n自分の作成するプログラムの背面で何が起こっているのかを学ぶためにこのコースを受講しました。\n\nこのコースでよかったことは、バージョン管理、GitHubの操作、このモジュールはどのように使うのか、\n使い方の書いてあるマニュアルはどこにあるのか？という自分で調査するための情報がふんだんにまとめられている点です。\n\nこの情報に加えて、現場それぞれのやり方があるので、【はむ式】で構わないので\n単体テスト・複合テスト・本番環境の作成までのレクチャーがあると未経験者が本番環境を作成するために\nどのような環境準備を進めていけばいいのか網羅的にわかる良い内容になると思いました。\n\n受講してよかったです。ありがとうございました。\n\n追伸、Q&Aにて返信されていた英語の学習方法へのコメントが面白かったです。\nエンジニアだけど、英語に苦手意識があるという人は結構多いので、エンジニア向け英語学習のコースがあったら受講する人は結構いるんじゃないかと思いました。\n私も英語は苦手ですが、頑張ります。\n\n【参考】私の学習レベル\nHTML：https://www.youtube.com/playlist?list=PLjw-30bsJNVU87F5iCPAW9kB4QDUGQxUG\nCSS：https://www.youtube.com/playlist?list=PLjw-30bsJNVVa4PuUseJ5YPN1K2dJr041\nJS：https://www.youtube.com/playlist?list=PLjw-30bsJNVUpFTm9FDof8B91uI3iorDH\n\n↓\n\n【JS】初級者から中級者になるためのJavaScriptメカニズム\nhttps://www.udemy.com/course/javascript-essence/\n\n【JavaScript＆CSS】ガチで学びたい人のためのWEB開発徹底実践（フロントエンド編）\nhttps://www.udemy.com/course/front-dev-tutorial/\n\nGit： もう怖くないGit！チーム開発で必要なGitを完全マスター\nhttps://www.udemy.com/course/unscared_git/\n\nフロントエンドエンジニアのための React ・ Redux アプリケーション開発入門\nhttps://www.udemy.com/course/react-application-development/\n\nReact Hooks 入門 - Hooksと Redux を組み合わせて最新のフロントエンド状態管理手法を習得しよう！\nhttps://www.udemy.com/course/react-hooks-101/\n\n最速で学ぶ - Google Cloud Platform（GCP）入門完全攻略コース\nhttps://www.udemy.com/course/google-cloud-platform-jp/\n\nフロントエンドエンジニアのためのGraphQL with React 入門\nhttps://www.udemy.com/course/graphql-with-react/\n\n【はむ式】モジュールバンドラー webpack を1日で習得！フルスクラッチでインストールからカスタマイズまでを理解する\nhttps://www.udemy.com/course/webpack-crash-course/\n\n【はむ式】Firebase未経験者のためのReactで作るチャットアプリ開発入門！2021年へ向け最速最短でゴール到達！←NEXT\nhttps://www.udemy.com/course/react-firebase/"
+  },
+  {
+    "Course Name": "ハンズオンで学ぶTypeScript - JavaScript エンジニアのためのTypeScript徹底入門",
+    "Student Name": "Yukari Maruyama",
+    "Timestamp": "2020-10-19 02:01:21+00:00",
+    "Rating": "5.0",
+    "Comment": "大変丁寧にTypescriptの説明があり、ハンズオンで学習できるのでわかりやすかったです。Reactも勉強してみようと思いました！"
+  },
+  {
+    "Course Name": "Firebase未経験者のためのReactで作るチャットアプリ開発入門！最速最短でゴール到達！",
+    "Student Name": "祐亮 佐竹",
+    "Timestamp": "2020-10-18 22:50:07+00:00",
+    "Rating": "5.0",
+    "Comment": "アイコンがきゃわたん"
+  },
+  {
+    "Course Name": "Firebase未経験者のためのReactで作るチャットアプリ開発入門！最速最短でゴール到達！",
+    "Student Name": "Kosuke Muraka",
+    "Timestamp": "2020-10-18 14:46:19+00:00",
+    "Rating": "5.0",
+    "Comment": "React を用いた実践的な開発方法を学ぶことができました. React を用いて一からアプリケーションを開発しインターネット上に公開するまでのプロセスとともに学習できます. すでに React の基礎知識を習得済みの人向けの内容ですが, そちらは別途はむさんの React に関するコースで学習するのが手っ取り早いかと思います. このコースをある程度理解できるレベルになれば, あとは独力で React アプリケーションを開発できると思います."
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "H T",
+    "Timestamp": "2020-10-18 05:29:42+00:00",
+    "Rating": "5.0",
+    "Comment": "他の教材や記事でわからなかった箇所がすんなり頭に入り、講座を通してアプリやweb制作などに活かせる知識が身についたと感じます。ありがとうございました。"
+  },
+  {
+    "Course Name": "ハンズオンで学ぶTypeScript - JavaScript エンジニアのためのTypeScript徹底入門",
+    "Student Name": "上原 裕貴",
+    "Timestamp": "2020-10-17 03:48:30+00:00",
+    "Rating": "5.0",
+    "Comment": "非常にわかりやすい"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのためのGraphQL with React 入門",
+    "Student Name": "Yutaka Fujii",
+    "Timestamp": "2020-10-17 02:05:05+00:00",
+    "Rating": "5.0",
+    "Comment": "Reactを使い、外部サービスとの連携を学習するために本コースを受講しました。\nGraphQLの仕様自体は、当初思っていた内容と少し異なりましたが、結果として、\nどう情報を取得し、表示し、変更すれば良いのか、ドキュメントはどこを読めばいいのか？など\nいろいろなことがわかる良い学びになったと思いました。\n\n音楽とはむさんの声の大きさにギャップがあり、声に音量を合わせると音楽がうるさく感じるなどの\n些細な点が気になりました。\n\nまた、本コースでは、GraphQLを用いた外部連携はGitHubのみなので、他のサービスとの連携はありません。\nGraphQLを活用してのリクエスト形式はサービスごとによって異なるようなので、\n同じ仕組みだけど、このサービスと連携する場合には、ここをこう変えると良い。\nみたいな内容があってもいいかと思いました。\n\nまた、別件ですがGraphQLのリクエスト回数は、こんな感じで使用されているというような解説があっても、\nGraphQL未体験者によっては理解が深まると思いました。\n\nとは言え、上記のような内容は、このコースを終えた受講生が自分で学習すれば良い内容だとも思うので、\nこのコースはこのコースで十分な学びになると思います。\n\nまた、私はReactの学習は本コースで３つめですが、\nいまいちバージョンやcreate react appに関連する情報がよくわかっていないので、\nこれから受講する人は気を付けてください。\n\n【参考】私の学習レベル\n\nHTML：https://www.youtube.com/playlist?list=PLjw-30bsJNVU87F5iCPAW9kB4QDUGQxUG\nCSS：https://www.youtube.com/playlist?list=PLjw-30bsJNVVa4PuUseJ5YPN1K2dJr041\nJS：https://www.youtube.com/playlist?list=PLjw-30bsJNVUpFTm9FDof8B91uI3iorDH\n\n↓\n\n【JS】初級者から中級者になるためのJavaScriptメカニズム\nhttps://www.udemy.com/course/javascript-essence/\n\n【JavaScript＆CSS】ガチで学びたい人のためのWEB開発徹底実践（フロントエンド編）\nhttps://www.udemy.com/course/front-dev-tutorial/\n\nGit： もう怖くないGit！チーム開発で必要なGitを完全マスター\nhttps://www.udemy.com/course/unscared_git/\n\nフロントエンドエンジニアのための React ・ Redux アプリケーション開発入門\nhttps://www.udemy.com/course/react-application-development/\n\nReact Hooks 入門 - Hooksと Redux を組み合わせて最新のフロントエンド状態管理手法を習得しよう！\nhttps://www.udemy.com/course/react-hooks-101/\n\n最速で学ぶ - Google Cloud Platform（GCP）入門完全攻略コース\nhttps://www.udemy.com/course/google-cloud-platform-jp/\n\nフロントエンドエンジニアのためのGraphQL with React 入門\nhttps://www.udemy.com/course/graphql-with-react/\n\n【はむ式】モジュールバンドラー webpack を1日で習得！フルスクラッチでインストールからカスタマイズまでを理解する←NEXT\nhttps://www.udemy.com/course/webpack-crash-course/"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "高橋滉太",
+    "Timestamp": "2020-10-12 10:56:49+00:00",
+    "Rating": "5.0",
+    "Comment": "文字のサイズも見やすかったから"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "Yutaka Fujii",
+    "Timestamp": "2020-10-11 05:38:02+00:00",
+    "Rating": "5.0",
+    "Comment": "まず、とても面白いコースでした。\nフロントエンドエンジニアのための React ・ Redux アプリケーション開発入門よりもわかりやすくコースの構成がとてもいいです。\n\n開発準備編で戸惑うこともあるかもしれませんが、基本的にスムーズにコース履修は進みます。\n手を動かし、作り上げていく過程に面白みを持つことのできるハンズオン学習としては理想的なコースだと思います。\nもう一度履修することで知識の定着が深まると思うので、私は最新のReactベースでもう一度復習したいと思いました。\nReactのドキュメント、MDNのドキュメントを読む大切さが後半になるとよくわかります。\n解説も的確で、以前のQ&Aもすべて読みましたが、講師の丁寧さ、真心を感じられる良い内容だと思いました。\nReactやプログラムなど詳しい方には物足りない内容かもしれませんが、私の学習レベルではとてもためになりました。\n何よりもコースが面白いのがよかったです。\n\n【参考】私の学習レベル\nHTML：https://www.youtube.com/playlist?list=PLjw-30bsJNVU87F5iCPAW9kB4QDUGQxUG\nCSS：https://www.youtube.com/playlist?list=PLjw-30bsJNVVa4PuUseJ5YPN1K2dJr041\nJS：https://www.youtube.com/playlist?list=PLjw-30bsJNVUpFTm9FDof8B91uI3iorDH\n\n↓\n\n【JS】初級者から中級者になるためのJavaScriptメカニズム\nhttps://www.udemy.com/course/javascript-essence/\n\n【JavaScript＆CSS】ガチで学びたい人のためのWEB開発徹底実践（フロントエンド編）\nhttps://www.udemy.com/course/front-dev-tutorial/\n\nGit： もう怖くないGit！チーム開発で必要なGitを完全マスター\nhttps://www.udemy.com/course/unscared_git/\n\nフロントエンドエンジニアのための React ・ Redux アプリケーション開発入門\nhttps://www.udemy.com/course/react-application-development/\n\nReact Hooks 入門 - Hooksと Redux を組み合わせて最新のフロントエンド状態管理手法を習得しよう！　←　New\nhttps://www.udemy.com/course/react-hooks-101/\n\nフロントエンドエンジニアのためのGraphQL with React 入門　←　Next\nhttps://www.udemy.com/course/graphql-with-react/"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "ogawa hiro",
+    "Timestamp": "2020-10-11 03:01:18+00:00",
+    "Rating": "5.0",
+    "Comment": "ひとつひとつのhookの役割や使い方をドキュメントをもとに解説したあとに、実践でアプリケーション内で具体的にどのように使うのかを体験できたのでとても役に立った。受講前からuseStateやuseEffectは使ったことがあったのだが、useContext、useReducerはよく理解してなかったので、それらについても学べて良かった。"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "Kosuke Muraka",
+    "Timestamp": "2020-10-10 17:30:54+00:00",
+    "Rating": "5.0",
+    "Comment": "React, Redux の基礎知識, 実際のアプリケーションに当てはめたときの使い方などがよく理解できました. 細かなところまで深堀りして説明されていたので, スムーズに理解でき, 記憶にも定着しやすいなと感じました. JavaScript を普通に読み書きできる人にとってはちょうど良いレベル感の内容だと思います."
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "江崎史享",
+    "Timestamp": "2020-10-05 23:40:41+00:00",
+    "Rating": "5.0",
+    "Comment": "逆に丁寧すぎると思うほどわかりやすかったです。"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "佐藤 理雄馬",
+    "Timestamp": "2020-09-29 01:19:40+00:00",
+    "Rating": "5.0",
+    "Comment": "口調が優しくて好印象"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "古沢啓太",
+    "Timestamp": "2020-09-28 14:23:03+00:00",
+    "Rating": "5.0",
+    "Comment": "なぜそうなるのか、どこがどこに作用するのか、実装していく一連の流れを細かく紐解きながら解説されています。\n「動けばいい」ではなく、正常に動いたあとのリファクタリングの考え方は右も左も分からない未経験、初学者には分からない領域ですので大変参考になるかと思います。\n単に正しい構文を入力していくだけでなく、起こりがちなエラーも交えて解説されています。"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "Takayuki Yoshioka",
+    "Timestamp": "2020-09-22 08:24:58+00:00",
+    "Rating": "5.0",
+    "Comment": "React初学者にとっては、実践的でアプリ開発にすぐ使えそう。"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "K F",
+    "Timestamp": "2020-09-18 06:20:48+00:00",
+    "Rating": "5.0",
+    "Comment": "実務でReact Hooks + Redux を導入しましたが、復習とより効率の良い書き方がないかと思い、受講しました。\nまず動作させるために平たくコードを書いてから、リファクタリングをしていくという流れを通して、実務で活かせるより良い構成、コードを書くためのヒントを多く学ぶことができました。\n失敗してから書き直すという流れもWhyと結びついて頭に入ってきやすかったです。"
+  },
+  {
+    "Course Name": "ハンズオンで学ぶTypeScript - JavaScript エンジニアのためのTypeScript徹底入門",
+    "Student Name": "A ra",
+    "Timestamp": "2020-09-12 09:22:54+00:00",
+    "Rating": "5.0",
+    "Comment": "素晴らしい講義をありがとうございました！\ntypescriptもreactも初めて触りますが、基礎が身に付けられた気がします！\nしっかり復習して定着させていきたいと思います！\n今回初めてはむさんの講義を受講しましたが、他のコースも受講してみたいと思いました。\n今後も講義を楽しみにしていますm(__)m"
+  },
+  {
+    "Course Name": "ハンズオンで学ぶRuby on Rails 6<Action Textを支えるデータベースアソシエーション編>",
+    "Student Name": "横田純子",
+    "Timestamp": "2020-09-10 08:56:30+00:00",
+    "Rating": "5.0",
+    "Comment": "今まではRailsコンソールの使い方がいまいちわからなかったのですが、いちいち「なるほど〜」と呟きながら受講でき、演習問題のバリデーション実装を自分で考えながらできた瞬間はとても嬉しかったです。\nRuby on Railsの公式サイトなどももっと自分で活用しようと思いました。\nまたぜひ続々と講座ができてきて受講できることを楽しみにしています。"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "齋藤美紀 (Miki Saito)",
+    "Timestamp": "2020-09-07 08:44:52+00:00",
+    "Rating": "5.0",
+    "Comment": "全くの初心者ですが、仕事のためにReactを学ぶ必要があったため、受講しました。コーディングしながら覚える形式がとても分かりやすかったです。こまめに映像をストップしながら自分のコーディングのスピードに合わせて動画をすすめられるので、挫折しないですみました。頻繁にストップ・再生を繰り返すため、動画再生用にPCをもう一台用意しましたが。残念な点は、最新のReact Hooksについては別のコンテンツを購入し直さないといけないところです。最初からHooksを使って学びたかったので。もちろん、次のステップとして、Hooksの方も受講させていただきます。大変勉強になりました。"
+  },
+  {
+    "Course Name": "ハンズオンで学ぶTypeScript - JavaScript エンジニアのためのTypeScript徹底入門",
+    "Student Name": "山本 達也",
+    "Timestamp": "2020-09-04 07:04:59+00:00",
+    "Rating": "5.0",
+    "Comment": "本コースを受講したおかげもあり、突発的に業務中、JavaScript->TypeScriptへ書き換えなくてはいけない事案が発生しましたが、対応することができました！！！\n今後もTypeScriptの学習や実践を踏まえて知見を広げていけたらと思っております。\n本当にありがとうございました！"
+  },
+  {
+    "Course Name": "ハンズオンで学ぶTypeScript - JavaScript エンジニアのためのTypeScript徹底入門",
+    "Student Name": "Araki Takashi",
+    "Timestamp": "2020-09-03 03:12:18+00:00",
+    "Rating": "5.0",
+    "Comment": "基本に絞って丁寧に解説してくださっていて良いレクチャーだったと思います。\n他の英語のコースなどでは、（それはそれで良いのですが）具体的なプロジェクトを作りながらの解説が多いのですがその分冗長になりがちなところ、基本に絞っている本コースは今後も繰り返し参照しながら使えるものになっていると思います。おすすめです。"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "剱地一見",
+    "Timestamp": "2020-08-31 05:50:42+00:00",
+    "Rating": "5.0",
+    "Comment": "エラーも含め画面に表示してもらえるため、どのようなオペレーションで開発しているかが分かり、理解しやすい"
+  },
+  {
+    "Course Name": "ハンズオンで学ぶTypeScript - JavaScript エンジニアのためのTypeScript徹底入門",
+    "Student Name": "Amu B",
+    "Timestamp": "2020-08-30 10:57:27+00:00",
+    "Rating": "5.0",
+    "Comment": "本講座を受講することで、包括的にTypescriptについて学ぶことができました。\n各項目にしっかり動画を1つ1つ区切って説明してくれているので、今自分が何を学んでいるのかをしっかり意識しながら学ぶことができました。また、種々の機能について、Typescriptのソースコードを参照しつつ説明してくれました。\n全体的に、とても丁寧でわかりやすい講座だったと思います。ありがとうございました。"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "齋藤",
+    "Timestamp": "2020-08-25 21:37:23+00:00",
+    "Rating": "5.0",
+    "Comment": "Reactの基礎を軽く学び、Reduxを用いた状態管理の手法を実際にCRUDアプリケーションを作成しながら、学ぶことができ非常にわかりやすかったです！\nまた、おまけではありますがReactのUIフレームワークのmaterial-uiは本講座で初めて知りました。非常に便利なuiフレームワークのようなので、こちらについても勉強して実際に取り入れて見たいです！"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "野島佑悟",
+    "Timestamp": "2020-08-21 03:48:37+00:00",
+    "Rating": "5.0",
+    "Comment": "とてもわかりやすいです"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "K-m T",
+    "Timestamp": "2020-08-17 03:52:09+00:00",
+    "Rating": "5.0",
+    "Comment": "状態管理というアプリケーション作成において、大切な視点での、コードの記述方法を学ぶことができました。\n大変勉強になりました。\nありがとうございました。"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "藤原有児",
+    "Timestamp": "2020-08-17 00:41:32+00:00",
+    "Rating": "5.0",
+    "Comment": "初めてReactを学びましたが説明がわかりやすいかつセクションが短く区切ってあったので１度目で概要を把握できました！今後知識が定着するように復習を繰り返していこうと思います。ありがとうございました！！"
+  },
+  {
+    "Course Name": "ハンズオンで学ぶTypeScript - JavaScript エンジニアのためのTypeScript徹底入門",
+    "Student Name": "Eric",
+    "Timestamp": "2020-08-14 00:14:16+00:00",
+    "Rating": "5.0",
+    "Comment": "いろんな書き方を教えてもらって助かる"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのためのGraphQL with React 入門",
+    "Student Name": "K-m T",
+    "Timestamp": "2020-08-12 14:19:10+00:00",
+    "Rating": "5.0",
+    "Comment": "GraphQL を用いた React アプリケーション開発について学ぶことができました。\nまた git にもより一層慣れることができました。\n大変お世話になりました。"
+  },
+  {
+    "Course Name": "モジュールバンドラー webpack を1日で習得！フルスクラッチでインストールからカスタマイズまでを理解する",
+    "Student Name": "Norio Nishihara",
+    "Timestamp": "2020-08-09 23:56:23+00:00",
+    "Rating": "5.0",
+    "Comment": "間違えたところなどの修正の仕方も入っていて参考になる。"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "K-m T",
+    "Timestamp": "2020-08-09 06:21:48+00:00",
+    "Rating": "5.0",
+    "Comment": "react の概要がなんとなく掴めた気がします。\n\ngit にも慣れることができました。\n\nまた先生と同じように vim を使ってみました。こんなエディターがあるんだと、体感し実感することで、少しずつ慣れてきて、今では楽しさを覚えました。\n\nより深く知識を落とし込んで、楽しい開発体験をできるように精進したいと思います。\n\nお世話になりました！"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "Michihiro Kawaji",
+    "Timestamp": "2020-08-05 05:38:01+00:00",
+    "Rating": "5.0",
+    "Comment": "最初の部分はabstractです。著者のReact-Redux基礎編を学んでいる方は飛ばしていいいと思います。"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "Y K",
+    "Timestamp": "2020-08-02 15:18:48+00:00",
+    "Rating": "5.0",
+    "Comment": "Hooksをどのような場面で使うと効果的なのか\nサンプルアプリケーションを実装する流れで\n学習出来るので、そのまま実戦で使えそうです。"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "林梨恵",
+    "Timestamp": "2020-08-02 13:04:36+00:00",
+    "Rating": "5.0",
+    "Comment": "jsも始めたばかりなので、演習では基本的なソースコードからスマートな書き方も知ることができる点が良かった。useStateを実際に使っての演習は理解が捗った。"
+  },
+  {
+    "Course Name": "ハンズオンで学ぶTypeScript - JavaScript エンジニアのためのTypeScript徹底入門",
+    "Student Name": "santarou t",
+    "Timestamp": "2020-07-23 05:46:41+00:00",
+    "Rating": "5.0",
+    "Comment": "分かりやすいです。松井や落合、ドラクエなどが出てきて懐かしかった。"
+  },
+  {
+    "Course Name": "ハンズオンで学ぶTypeScript - JavaScript エンジニアのためのTypeScript徹底入門",
+    "Student Name": "₥adoka .",
+    "Timestamp": "2020-07-19 07:32:42+00:00",
+    "Rating": "5.0",
+    "Comment": "TypeScriptを学ぶのに便利な関連事項（GitHubやVScode、ts-node-devなど）の導入方法から始まって、TypeScript自体も基礎の基礎から丁寧に解説してくれるので、引っかかることなく付いていけています。\n話し方もゆっくりで、コーディングに多少もたついても置いて行かれることがないので、一時停止無しでも聞く・書くどちらも疎かにせずに進むことができるのも快適でした。\n（個人的に高めの発声が好きでないので、講師の穏やかな声質も好感でした。）\nセクション3以降で学ぶ概念もコーディングの例が複雑すぎない程度に適度に具体的で、それぞれの使いどころが想像しやすくてすぐに身に付きます。\n\n元々自作していたJavaScriptのプログラムを、学んだ内容をもとにTypeScriptに書き直しながら受講しているのですが、実際に自分でやってみたら上手くいかなかった、ということも無く、本当に身についたということを実感しています。\nこれまで理解不能だった公式ドキュメントも理解できる範囲が続々と広がっていて、この先独学でさらに先に進むにあたってのハードルもグンと下がりました。\n受講して本当に良かったと思っています。"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "Kauzki",
+    "Timestamp": "2020-07-16 09:09:46+00:00",
+    "Rating": "5.0",
+    "Comment": "ありがとうございました！"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "Sho Yuno",
+    "Timestamp": "2020-07-10 02:10:00+00:00",
+    "Rating": "5.0",
+    "Comment": "Reactをロジカル的に、かつ詳細にハンズオンで学べる点が非常に良かったです。"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "Takashi Kominami",
+    "Timestamp": "2020-07-07 17:15:05+00:00",
+    "Rating": "5.0",
+    "Comment": "ちょうどreact+reduxを使った管理画面の実装を行う前で本講座を見つけ、\nreact未経験だったが、なんとかなりそうな当たりをつけることができた。\n助かりました。ありがとうございました。"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "memory 12",
+    "Timestamp": "2020-07-07 06:56:14+00:00",
+    "Rating": "5.0",
+    "Comment": "とても勉強になりました！"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "memory 12",
+    "Timestamp": "2020-07-07 04:50:51+00:00",
+    "Rating": "5.0",
+    "Comment": "とても分かりやすかったです。また、Context APIの例もとても勉強になりました。ありがとうございました。"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "Harada32",
+    "Timestamp": "2020-06-28 17:26:10+00:00",
+    "Rating": "5.0",
+    "Comment": "受講してよかった"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "Shu Matsumoto",
+    "Timestamp": "2020-06-28 01:03:19+00:00",
+    "Rating": "5.0",
+    "Comment": "一つ一つの解説が丁寧で、React初心者でも安心して学習できます。\nありがとうございます＾＾"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "Toshi_oliver",
+    "Timestamp": "2020-06-27 10:37:55+00:00",
+    "Rating": "5.0",
+    "Comment": "React-Redux講座を終えた際は、なんだか知識にモヤがかかった状態でしたが、このhooks講座を学んだことでRedux、Hooksまとめて理解することができました。本当に購入してよかったです。"
+  },
+  {
+    "Course Name": "ハンズオンで学ぶTypeScript - JavaScript エンジニアのためのTypeScript徹底入門",
+    "Student Name": "祐亮 佐竹",
+    "Timestamp": "2020-06-22 23:03:26+00:00",
+    "Rating": "5.0",
+    "Comment": "\"型だけに\"\nで、おなじみはむおじさんのコース。\n実務でReactのプロジェクトにTypeScriptを導入することができました。\n最高です。"
+  },
+  {
+    "Course Name": "ハンズオンで学ぶTypeScript - JavaScript エンジニアのためのTypeScript徹底入門",
+    "Student Name": "トム スージー",
+    "Timestamp": "2020-06-21 03:39:11+00:00",
+    "Rating": "5.0",
+    "Comment": "分かりやすい！！！"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "石原 龍之介",
+    "Timestamp": "2020-06-19 02:27:40+00:00",
+    "Rating": "5.0",
+    "Comment": "全体的にとてもよかったです！\n\nただReact Hooksの「dispatch関数」とか「Actionオブジェクト」とかの関係性に関しては「Reduxのデータフロー」を深く理解していないとイメージしづらいのかな、と思ったので、もしそこらへんでつまずいている人は「React Hooks」をやる前に「Redux」を学んだほうが良いと思いました。\n\nハムさんの講義では「イラスト」とか「図」を用いた解説は行われていませんが、データフローの全体像をイメージしないと理解が深まらない方に関しては実際に自分でデータフローとかを可視化してみると良いかもですね！"
+  },
+  {
+    "Course Name": "モジュールバンドラー webpack を1日で習得！フルスクラッチでインストールからカスタマイズまでを理解する",
+    "Student Name": "Kyosuke Tsuneda",
+    "Timestamp": "2020-06-17 05:13:10+00:00",
+    "Rating": "5.0",
+    "Comment": "webpack.config.jsファイルを見るのに苦手意識があったが、一つずつ丁寧に解説していってくれるので少しずつ自分の中の苦手意識が薄れていくのがわかった。"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "T W",
+    "Timestamp": "2020-06-16 12:51:05+00:00",
+    "Rating": "5.0",
+    "Comment": "Reactに初めて触れる人に最適な講座だと思います。具体的なwebアプリを題材に、色んな情報を幅広く提供してもらえるのでとても助かりました。"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "Tomoyuki Orita",
+    "Timestamp": "2020-06-16 00:49:43+00:00",
+    "Rating": "5.0",
+    "Comment": "Reactにおける値の状態管理のイメージがしやすく、Reduxの詳細な使い方にも役立てちそうだと思いました。\n解説が、痒いところに手が届く感じのわかりやすさでありがたかったです。"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "Hasyamo",
+    "Timestamp": "2020-06-14 04:09:38+00:00",
+    "Rating": "5.0",
+    "Comment": "解説が丁寧でよかったです。\nまた、ブランチ作成、実装、レビュー、コミットのサイクルで少しずつ機能が実装し学習していくスタイルがテンポよく楽しく学べました！"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "中嶋翔太",
+    "Timestamp": "2020-06-10 07:49:43+00:00",
+    "Rating": "5.0",
+    "Comment": "React Reduxについて概要を掴めたかなと思います。Reactは確かに学習コストが高いなと実感しました。でもその反面、もっと勉強したいと思えました。これからいろいろな教材を利用して、Reactについての知識を深めていきたいと思います。そのきっかけを与えていただいたこのコースに感謝したいです。ありがとうございます！！"
+  },
+  {
+    "Course Name": "ハンズオンで学ぶTypeScript - JavaScript エンジニアのためのTypeScript徹底入門",
+    "Student Name": "Y I",
+    "Timestamp": "2020-06-07 13:05:21+00:00",
+    "Rating": "5.0",
+    "Comment": "全体的に一貫性があり、非常にわかりやすかったです。\nこの一貫性というのは、replやwebIDEなどに行ったり来たりせずに\n一貫してvscode内で1レッスンにつき1ファイルを作り、コースを進めるという点です。\nこれは、あとで見直す時に非常に有用だと思いました。\n\nまた、ゆっくりとした口調であるため、聞きやすかったです。\n私は1.25倍にして視聴しましたが、ゆっくり聞きたい人にはちょうど良いですね。\n\n\nハムおじさんのその他のコースも、機会があれば受講したいと思います。"
+  },
+  {
+    "Course Name": "ハンズオンで学ぶTypeScript - JavaScript エンジニアのためのTypeScript徹底入門",
+    "Student Name": "Shu Matsumoto",
+    "Timestamp": "2020-05-30 13:48:31+00:00",
+    "Rating": "5.0",
+    "Comment": "解説が丁寧で、スピードも丁度良いです。\n先日、Railsのも受講しまして大満足で、オススメです。\nこれからもどんどん講座出して欲しいです。\n（特にRails、Vue.js）"
+  },
+  {
+    "Course Name": "ハンズオンで学ぶRuby on Rails 6<Action Textを支えるデータベースアソシエーション編>",
+    "Student Name": "Shu Matsumoto",
+    "Timestamp": "2020-05-29 06:06:01+00:00",
+    "Rating": "5.0",
+    "Comment": "解説が丁寧で分かりやすく\nスピードも今の自分にちょうど合っているように感じました。\nRailsが好きになりました。"
+  },
+  {
+    "Course Name": "ハンズオンで学ぶTypeScript - JavaScript エンジニアのためのTypeScript徹底入門",
+    "Student Name": "Nagata",
+    "Timestamp": "2020-05-27 11:50:17+00:00",
+    "Rating": "5.0",
+    "Comment": "非常にわかりやすくて、助かりました！\nありがとうございます☆"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "今井 直也",
+    "Timestamp": "2020-05-27 08:51:47+00:00",
+    "Rating": "5.0",
+    "Comment": "react-reduxの講座は説明が完結すぎて分かりにくいところもあったが本講座では今のところ丁寧に演習も含めて解説してくれているので分かりやすい"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "Yusuke Sakurai",
+    "Timestamp": "2020-05-25 16:54:35+00:00",
+    "Rating": "5.0",
+    "Comment": "手を動かして学べるので、とても良かったです。"
+  },
+  {
+    "Course Name": "ハンズオンで学ぶTypeScript - JavaScript エンジニアのためのTypeScript徹底入門",
+    "Student Name": "Miyuki Shoji",
+    "Timestamp": "2020-05-23 04:52:57+00:00",
+    "Rating": "5.0",
+    "Comment": "とてもわかりやすいです！購入してよかったと思います。"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "大波誠",
+    "Timestamp": "2020-05-18 08:05:57+00:00",
+    "Rating": "5.0",
+    "Comment": "リファクタリングなど、実践的な内容も含まれていて大変充実したコースだと思いました。\nhooksを活用して自分のプロダクトを作り上げていきたいと思います。\nありがとうございました。"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "i wat",
+    "Timestamp": "2020-05-16 12:01:30+00:00",
+    "Rating": "5.0",
+    "Comment": "実践的にReact Hookを学ぶことができる素晴らしい教材でした。"
+  },
+  {
+    "Course Name": "ハンズオンで学ぶTypeScript - JavaScript エンジニアのためのTypeScript徹底入門",
+    "Student Name": "中嶋 直人",
+    "Timestamp": "2020-05-15 22:25:04+00:00",
+    "Rating": "5.0",
+    "Comment": "説明がわかりやすかったです！"
+  },
+  {
+    "Course Name": "モジュールバンドラー webpack を1日で習得！フルスクラッチでインストールからカスタマイズまでを理解する",
+    "Student Name": "ogawa hiro",
+    "Timestamp": "2020-05-15 03:17:36+00:00",
+    "Rating": "5.0",
+    "Comment": "ひとつひとつ解説が丁寧で、スピードもちょうど良いです。\n今までは何となくの知識でWebpackを使ってたのですが、本動画でしっかりと理解できました。"
+  },
+  {
+    "Course Name": "モジュールバンドラー webpack を1日で習得！フルスクラッチでインストールからカスタマイズまでを理解する",
+    "Student Name": "祐亮 佐竹",
+    "Timestamp": "2020-05-13 23:39:41+00:00",
+    "Rating": "5.0",
+    "Comment": "ぐぐっても〜♪という音楽を会社でも口ずさんでしまうので、受講するときは注意が必要"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "Kosaku Oshima",
+    "Timestamp": "2020-05-12 03:09:49+00:00",
+    "Rating": "5.0",
+    "Comment": "話を聞いているだけで理解するのはなかなか難しかったですが、内容に合わせて自分の手を動かすことで理解できました！個人的にはどんなコードをどうリファクタリングするのか知れたことも嬉しかったです。"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのためのGraphQL with React 入門",
+    "Student Name": "正村駿",
+    "Timestamp": "2020-05-11 13:58:23+00:00",
+    "Rating": "5.0",
+    "Comment": "要点が絞って説明されており，わかりやすい"
+  },
+  {
+    "Course Name": "ハンズオンで学ぶRuby on Rails 6<Action Textを支えるデータベースアソシエーション編>",
+    "Student Name": "Tak",
+    "Timestamp": "2020-05-08 10:15:16+00:00",
+    "Rating": "5.0",
+    "Comment": "説明が丁寧でわかりやすかったです。説明もれが無く、聞き取りやすいのでスムーズに習得できました。"
+  },
+  {
+    "Course Name": "ハンズオンで学ぶTypeScript - JavaScript エンジニアのためのTypeScript徹底入門",
+    "Student Name": "齋藤 健介",
+    "Timestamp": "2020-05-06 06:15:21+00:00",
+    "Rating": "5.0",
+    "Comment": "環境設定（ファイル監視して実行する方法や、vscodeでのフォーマット設定など）も学べるし、各セクションの説明も、詳細でわかりやすかったです。サンプルコードも野球選手で例えてたり、オリジナリティがあり、おもしろかったです。実際の使い所なども、説明に混ぜ込んで頂いているので、とてもためになりました。動画の時間は長かったので、２倍速で丁度よく、よくわからなかった箇所は、何回も見たりしました。"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "井上 優太",
+    "Timestamp": "2020-05-06 02:13:44+00:00",
+    "Rating": "5.0",
+    "Comment": "reactはもちろんのことgitの使い方も気づきがありよかったです。（恥ずかしながらgit push origin HEADを知りませんでした。）"
+  },
+  {
+    "Course Name": "ハンズオンで学ぶRuby on Rails 6<Action Textを支えるデータベースアソシエーション編>",
+    "Student Name": "Ryota Yagi",
+    "Timestamp": "2020-05-04 22:22:20+00:00",
+    "Rating": "5.0",
+    "Comment": "データ構造を理解しながらAction Text機能を使えるようになるため、大変勉強になります。"
+  },
+  {
+    "Course Name": "ハンズオンで学ぶTypeScript - JavaScript エンジニアのためのTypeScript徹底入門",
+    "Student Name": "Ns",
+    "Timestamp": "2020-05-04 09:31:56+00:00",
+    "Rating": "5.0",
+    "Comment": "TypeScriptだけでなく、その下敷きになっているJavaScriptについての知識も0の状態で始めましたが、JavaScriptのコードを説明したあとに同じことをTypeScriptではどのようにかけるのかと言ったことを比較しながら理解を進めることができました。また、コーディングをする中でエラーが発生した際に解決方法としていきなり正解を書いて終わりではなく、エラーが発生している原因箇所の特定とどのようにすればそのエラーを解決できるのかについて丁寧な説明がありました。この講座を通じて、オブジェクト指向プログラミング言語に共通する考え方についても理解が増したと思います。"
+  },
+  {
+    "Course Name": "ハンズオンで学ぶTypeScript - JavaScript エンジニアのためのTypeScript徹底入門",
+    "Student Name": "i wat",
+    "Timestamp": "2020-05-04 03:51:23+00:00",
+    "Rating": "5.0",
+    "Comment": "TSの基礎をしっかりと固めることができました。\nハンズオン形式で手を動かしながら身につけられ、TSの書き方を体に覚えさせることができました。"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "Kei F",
+    "Timestamp": "2020-05-04 01:09:31+00:00",
+    "Rating": "5.0",
+    "Comment": "まず第一に再生速度1.0講義速度がとてもゆっくりなので速度調整しやすいです。\nコースの評価は現時点ではできませんが、期待大です。"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのためのGraphQL with React 入門",
+    "Student Name": "齋藤 健介",
+    "Timestamp": "2020-05-03 08:51:59+00:00",
+    "Rating": "5.0",
+    "Comment": "詳しくご説明されているので、とてもわかりやすかったです。はまる箇所もほとんどありませんでした。GraphQL以外のこと（react、git ）についても、勉強になりました。ありがとうございました！エンディングのキャッチーなメロディーは、しばらく口ずさんでしまいそうです。"
+  },
+  {
+    "Course Name": "モジュールバンドラー webpack を1日で習得！フルスクラッチでインストールからカスタマイズまでを理解する",
+    "Student Name": "SHO IKEDA",
+    "Timestamp": "2020-04-23 11:21:40+00:00",
+    "Rating": "5.0",
+    "Comment": "誰かが作ったwebpack.configになんとなく修正していましたが、今後は意味を考えながら修正できそうです！"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "けいすけ たにぐち",
+    "Timestamp": "2020-04-20 03:33:26+00:00",
+    "Rating": "5.0",
+    "Comment": "汚れたコードから実用的なコードへのリファクタリングなど実際に実務で行いそうなシチュエーションで進めてくれるので、大変参考になります。また、Typescript版なども機会があれば教えていただきたいです。"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "yokokura tatsuya",
+    "Timestamp": "2020-04-19 02:57:35+00:00",
+    "Rating": "5.0",
+    "Comment": "とても丁寧に解説をしてくれているので、大変分かりやすかったです。\n姉妹コースのRudexの講座では、内容の難しさから理解できず挫折していたのですが、コースの説明にあるようにReduxに挫折した方でも十分に理解できる内容でした。"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "徳岡 敦",
+    "Timestamp": "2020-04-15 14:27:26+00:00",
+    "Rating": "5.0",
+    "Comment": "gitコマンドの知識と並行して学べる"
+  },
+  {
+    "Course Name": "ハンズオンで学ぶRuby on Rails 6<Action Textを支えるデータベースアソシエーション編>",
+    "Student Name": "なかもと",
+    "Timestamp": "2020-04-12 12:26:11+00:00",
+    "Rating": "5.0",
+    "Comment": "コロナの影響で時間ができたので週末を利用してできました。\nrailsも人気が落ちてきたのかudemyでもrails6に特化した講座がこれくらいしかなかった気がします。\naction_text便利だなと感じるとともにまだまだrailsも進化し続けているなと感じました。"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "shimizu yuta",
+    "Timestamp": "2020-04-12 01:42:50+00:00",
+    "Rating": "5.0",
+    "Comment": "丁寧で分かり易かったです。「なぜこの実装を行うのか」を説明してくださるので納得感を持って進められました。"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "沖本好生",
+    "Timestamp": "2020-04-07 06:14:52+00:00",
+    "Rating": "5.0",
+    "Comment": "わかりやすかったです。ありがとうございました。"
+  },
+  {
+    "Course Name": "ハンズオンで学ぶTypeScript - JavaScript エンジニアのためのTypeScript徹底入門",
+    "Student Name": "Yuki Tanabe",
+    "Timestamp": "2020-04-06 08:50:23+00:00",
+    "Rating": "5.0",
+    "Comment": "TypeScriptを体系的に学習できました。\nそもそものJavaScriptで浅い理解だったところも、TypeScriptの学習を通じてより深く理解できる構成になっておりました。（特にClass構文の章が大変理解しやすかったです。）\n早速明日からの実務で利用できそうです。\nありがとうございました。"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "石田 駿",
+    "Timestamp": "2020-03-31 09:01:17+00:00",
+    "Rating": "5.0",
+    "Comment": "説明が丁寧で声がハッキリとしており、聴きやすい"
+  },
+  {
+    "Course Name": "ハンズオンで学ぶTypeScript - JavaScript エンジニアのためのTypeScript徹底入門",
+    "Student Name": "sho 5",
+    "Timestamp": "2020-03-22 03:41:13+00:00",
+    "Rating": "5.0",
+    "Comment": "とても丁寧に解説されており、声も聞き取りやすいため理解しやすいです。\n気を付けてほしいポイントなども添えてくれているので、おすすめの講座だと思います。"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "takahiro mitake",
+    "Timestamp": "2020-03-21 13:42:23+00:00",
+    "Rating": "5.0",
+    "Comment": "hooks の使い方だけでなく、リファクタリングの手法や localStorage の使い方など、細かいところまで説明されている良いコースでした。"
+  },
+  {
+    "Course Name": "ハンズオンで学ぶTypeScript - JavaScript エンジニアのためのTypeScript徹底入門",
+    "Student Name": "su kodai",
+    "Timestamp": "2020-03-16 22:13:42+00:00",
+    "Rating": "5.0",
+    "Comment": "長時間のように思えますが、テンポがいいのか、あっという間に視聴できました。"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "Yudai Shiratori",
+    "Timestamp": "2020-03-16 14:28:26+00:00",
+    "Rating": "5.0",
+    "Comment": "一つ一つ「なぜこのようにコードを書くのか」をわかりやすく説明してくださいました。プロのエンジニアがどういったことを考えて実装し、リファクタリングしていくのかまでを解説してくださいました。\n今までの他の教材ではとりあえず写経するだけで背景や技術的な理解ができなかったのですが、はむさんの教材では知識が身になっていくことを実感できました。ありがとうございました。"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "Kyosuke Tsuneda",
+    "Timestamp": "2020-03-16 09:48:48+00:00",
+    "Rating": "5.0",
+    "Comment": "とにかく説明が優しくわかりやすい。ステップバイステップで学べるので躓かない"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "西村祐輝",
+    "Timestamp": "2020-03-15 08:22:57+00:00",
+    "Rating": "5.0",
+    "Comment": "基本的にリファレンスを読んで概要はつかんでいましたが、実戦形式で使用例を体感できたのでかなりHooksの使用方法は理解できたんじゃないかと思いました。"
+  },
+  {
+    "Course Name": "ハンズオンで学ぶTypeScript - JavaScript エンジニアのためのTypeScript徹底入門",
+    "Student Name": "土屋陽介",
+    "Timestamp": "2020-03-13 03:26:40+00:00",
+    "Rating": "5.0",
+    "Comment": "実際のコードを書きながら解説してもらえるので書籍よりもイメージが湧きやすい。"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "pheni .",
+    "Timestamp": "2020-03-10 03:00:45+00:00",
+    "Rating": "5.0",
+    "Comment": "reactとreduxの基本的にな操作について学べた"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "Eisuke Takeuchi",
+    "Timestamp": "2020-03-08 13:59:36+00:00",
+    "Rating": "5.0",
+    "Comment": "わかりやすい説明と細密なレクチャー構成のおかげでサクサクと進めることができました。現場でのコーディングのお作法についても事あるごとに説明してくれます。他のコース同様、心地よく受講することができました。"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "垣内 勇人",
+    "Timestamp": "2020-03-08 11:27:17+00:00",
+    "Rating": "5.0",
+    "Comment": "丁寧に細かく解説されており非常にわかりやすいです！"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのためのGraphQL with React 入門",
+    "Student Name": "Takeshi Yamazaki",
+    "Timestamp": "2020-03-07 07:27:04+00:00",
+    "Rating": "5.0",
+    "Comment": "ReactにGraphQL、Apolloを組み合わせるにしてもそれぞれの情報が膨大であり公式を読み進めていてもどこの部分を理解しているか分かりづらかったが、このコースを終える頃にはアプリ開発を通して使い所を理解できたと思う。\nコースと関係ないが、受講終える頃にはググっても〜♪をふと口ずさんでしまうので注意が必要です。"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "真先 哲夫",
+    "Timestamp": "2020-03-05 00:45:17+00:00",
+    "Rating": "5.0",
+    "Comment": "大変　有難うございました。"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "水流洋人",
+    "Timestamp": "2020-03-04 06:11:55+00:00",
+    "Rating": "5.0",
+    "Comment": "話すスピードや説明がわかりやすかった。Reactに対する理解が深まり、更にいろいろな実装にチャレンジしてみようと思った。\nたまにあったコンパイルエラーも、実際の開発過程でよく起こることなので、人間味があり、またその原因や解決策についての解説もあって親切だなと思いました。"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "Yuki Mizushima",
+    "Timestamp": "2020-02-28 22:39:36+00:00",
+    "Rating": "5.0",
+    "Comment": "説明が丁寧で分かりやすく、安心して受講できた。"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "Takayuki Tooyama",
+    "Timestamp": "2020-02-28 07:31:39+00:00",
+    "Rating": "5.0",
+    "Comment": "Hooksの使い方はもちろん、Reduxの使いどころ、丁寧なリファクタリングなどなどReactを触り始め２週間程ですが、大変わかりやすかったです。\n自分はVSCodeを使っているので、Vimの画面に違和感があったり、Gitもあまり使ってこなかったので、少々苦戦しましたが、それを上回る分かりやすさをこの講座は持っているのでとてもおすすめです。\n他の教材も購入させていただきたいと思います。\n参考までにどうぞ！"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "祐亮 佐竹",
+    "Timestamp": "2020-02-25 00:51:29+00:00",
+    "Rating": "5.0",
+    "Comment": "たまにでる英語の発音のよさがツボ。"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "Eisuke Takeuchi",
+    "Timestamp": "2020-02-23 14:15:03+00:00",
+    "Rating": "5.0",
+    "Comment": "私にとっては難しかったですが、講義を複数回聞いたり、公式ドキュメントと格闘したり、Q&Aを見たりし、何とか２周目には講義内容を自分の血肉とすることができたように思えます。また、講師のはむさんの簡潔な説明と質問ウェルカムな姿勢が心地良かったです。"
+  },
+  {
+    "Course Name": "ハンズオンで学ぶTypeScript - JavaScript エンジニアのためのTypeScript徹底入門",
+    "Student Name": "dicek 88",
+    "Timestamp": "2020-02-16 23:24:12+00:00",
+    "Rating": "5.0",
+    "Comment": "丁寧に解説されていて理解しやすかったです。\n是非TypeScript実践編等も提供して頂きたいです。"
+  },
+  {
+    "Course Name": "ハンズオンで学ぶTypeScript - JavaScript エンジニアのためのTypeScript徹底入門",
+    "Student Name": "こっつ じ",
+    "Timestamp": "2020-02-12 02:17:48+00:00",
+    "Rating": "5.0",
+    "Comment": "説明がわかりやすいのに加えて以下の点がよかったです。\n* 手を動かしながら学べる\n* 他の選択肢をしめつつ、ベストなやり方をしめしてくれる\n* 発話が聞き取りやすい。(速度2倍で聞いても聞き取れる)"
+  },
+  {
+    "Course Name": "ハンズオンで学ぶTypeScript - JavaScript エンジニアのためのTypeScript徹底入門",
+    "Student Name": "masanori funaki",
+    "Timestamp": "2020-02-11 04:10:08+00:00",
+    "Rating": "5.0",
+    "Comment": "JSで言う 〇〇 は TSで言う XX みたいな説明があり、わかりやすかったです。"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "Kenta Kihara",
+    "Timestamp": "2020-02-09 13:25:37+00:00",
+    "Rating": "5.0",
+    "Comment": "React hooksは「stateの管理ならうっすら分かる」くらいで、且つReduxもあまり理解できていない状態でしたが、レクチャーがとてもわかりやすかったため、容易に理解できました。\n受講していくにつれて、講義のタイトルから察して先に実装して、動画をみて答え合わせという流れに変わっていきました。\n講義そのものも、Reactの仕様も面白かったので1日半ほどで完遂しました。\n\nまたショートハンドなど、そもそものJSの表現方法についても知らないものが多く、この点も非常に勉強になりました。受講してよかったです。\nはむさん、ありがとうございました！"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "尾上千里 marukuma",
+    "Timestamp": "2020-02-09 08:10:11+00:00",
+    "Rating": "5.0",
+    "Comment": "これからReact Reduxの開発が始まります。まだまだ理解は追いついていませんが、React Reduxの取っ掛かりとしてスピーディに入る事ができました。また、動画の中で開発しながらバグの発生、バグの改修の説明が今後の開発で役に立ちそうです。何度も動画を見直して自分のものにしていきたいと思います。ありがとうございました。"
+  },
+  {
+    "Course Name": "ハンズオンで学ぶTypeScript - JavaScript エンジニアのためのTypeScript徹底入門",
+    "Student Name": "Miyaudi 宮宇地",
+    "Timestamp": "2020-02-08 06:52:51+00:00",
+    "Rating": "5.0",
+    "Comment": "すごくわかりやすいです。"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "Keeth Kiyohito Kuwahara",
+    "Timestamp": "2020-02-07 00:54:55+00:00",
+    "Rating": "5.0",
+    "Comment": "React は理解できている前提として、React Hooks を全く知らなくても手を動かしながら基礎が学べる良い講座でした！説明もかなり丁寧で、今から React Hooks を勉強しようとする方はぜひオススメです！"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "Kazuhisa Noguchi",
+    "Timestamp": "2020-02-03 20:31:39+00:00",
+    "Rating": "5.0",
+    "Comment": "説明が丁寧で、基礎の復習までしっかりと、モチベーションを落とさずに続けられました"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "いち N",
+    "Timestamp": "2020-02-03 09:48:34+00:00",
+    "Rating": "5.0",
+    "Comment": "JavaScript自体に少し触ったことがある程度で、フレームワークに関しては他言語のものしか触ったことがなかったですが、非常にわかりやすい講座で効率的に学習することができました。\nはむさんの他の講座についても、機会があれば勉強させていただきたいと思います。\nありがとうございました！"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "大野智春",
+    "Timestamp": "2020-02-03 07:38:51+00:00",
+    "Rating": "5.0",
+    "Comment": "わかりやすい説明で、プログラミング初心者の私にも理解しやすかったです。reactの本を読むより動画で理解した方が早いと感じました。"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "hackEngine",
+    "Timestamp": "2020-01-21 10:34:56+00:00",
+    "Rating": "5.0",
+    "Comment": "まだ1週目ですが、機能の良さが伝わりました。\nまた使い方などの解説も丁寧でわかりやすかったです。\n2週目で、コーディングして実感してみようと思います。"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "Stifel",
+    "Timestamp": "2020-01-19 14:24:57+00:00",
+    "Rating": "5.0",
+    "Comment": "易しい内容で分かりやすく、説明も丁寧でよかったです。"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "Hal Hal",
+    "Timestamp": "2020-01-17 16:14:58+00:00",
+    "Rating": "5.0",
+    "Comment": "前提知識を飛ばすことなく詳細に丁寧に説明してくださるので、プログラミング初学者でも基礎をイメージしながらreactの知見を得ることができます。"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "坂田和樹",
+    "Timestamp": "2020-01-17 15:34:01+00:00",
+    "Rating": "5.0",
+    "Comment": "もう少しコードに説明があれば星5以上でした！"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "こっつ じ",
+    "Timestamp": "2020-01-14 23:22:31+00:00",
+    "Rating": "5.0",
+    "Comment": "「こういうふうにもかけるけど、こうしたほうがコードがスッキリする」\n「こういうふうにかくと、エラーが出る。なぜエラーになるかというと..」\nといった感じで、いきなり正解ではなく思考過程が学べるのがよいです。話も聞き取りやすいです。"
+  },
+  {
+    "Course Name": "ハンズオンで学ぶRuby on Rails 6<Action Textを支えるデータベースアソシエーション編>",
+    "Student Name": "RykS .",
+    "Timestamp": "2020-01-13 11:51:06+00:00",
+    "Rating": "5.0",
+    "Comment": "講師の話がとても聞きやすい。"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "Y N",
+    "Timestamp": "2020-01-12 16:03:23+00:00",
+    "Rating": "5.0",
+    "Comment": "hooksに関することが一通り学べて大変役に立ちました！"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "瓜生 杏介",
+    "Timestamp": "2020-01-08 15:44:32+00:00",
+    "Rating": "5.0",
+    "Comment": "実践的でわかりやすい内容だと感じています。\n当初reactについての知識がほとんど無かったため、その機能性の高さに驚きながら学習を進めております。\n最後まで学習して全体像を把握することができました、さらに繰り返し手を動かして自分のスキル向上のきっかけにしたいと思います、本当にありがとうございました！"
+  },
+  {
+    "Course Name": "モジュールバンドラー webpack を1日で習得！フルスクラッチでインストールからカスタマイズまでを理解する",
+    "Student Name": "優樹 内堀",
+    "Timestamp": "2020-01-05 14:28:32+00:00",
+    "Rating": "5.0",
+    "Comment": "webpack の使い方の流れを理解できて、とても勉強になりました。"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "ムカイヒロト",
+    "Timestamp": "2020-01-05 10:10:30+00:00",
+    "Rating": "5.0",
+    "Comment": "なんとなくreact-reduxのフロントの開発ができる気になりました。\nこの講座を終えると、ある程度の知識がつくので自主学習でビジネスレベルの開発ができるような気がしています。\nただ、ビジネスレベルになるとスタイルを当てることも必要になってくると思うので、プロのリファクタリングを学ぶことができるし、bootstrapではなくて、簡単にスタイルなスタイルを当てる講義も含まれていてよかったのではないかと思いました。"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "石田颯",
+    "Timestamp": "2020-01-04 08:36:04+00:00",
+    "Rating": "5.0",
+    "Comment": "わかりやすかった。"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "Yudai Takiguchi",
+    "Timestamp": "2020-01-04 03:02:23+00:00",
+    "Rating": "5.0",
+    "Comment": "特に詰まるところもなく、基本から実践編まで勉強できました。"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "石野 純",
+    "Timestamp": "2020-01-03 13:26:19+00:00",
+    "Rating": "5.0",
+    "Comment": "手元で都度動かしながら学習できるのは良かったです。欲を言うと後半から自身で考える時間が減ってしまったので、もう少し増やしてもらいたいです。"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "H K",
+    "Timestamp": "2020-01-03 10:30:19+00:00",
+    "Rating": "5.0",
+    "Comment": "ざっとProgateのレッスンと、Reactのチュートリアルなどを終えてからの受講であったが、setStateするとrenderされることや、propTypesやdefaultPropsなどは新しい知識であった。より実務に寄り添ったコースになっていると感じた。"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "OSAMU KAWACHI",
+    "Timestamp": "2019-12-30 23:20:32+00:00",
+    "Rating": "5.0",
+    "Comment": "丁寧で分かりやすかったです。"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのためのGraphQL with React 入門",
+    "Student Name": "土屋陽介",
+    "Timestamp": "2019-12-30 08:50:05+00:00",
+    "Rating": "5.0",
+    "Comment": "GraphQL x React のアプリケーションを作成するにあたり、必要な前提知識を学ぶことができた。"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "Morita Mitukun",
+    "Timestamp": "2019-12-23 14:21:16+00:00",
+    "Rating": "5.0",
+    "Comment": "とても素晴らしいコースでした。\n振り返りと、実践の分け方、共に理解が深めやすくなりました。\n一点あるとすれば、前半から中盤部分の動画のボリュームが多くなり、そこを区切ってもらえるとより良いかなと感じました。\n\n個人的にvimの動画を出して欲しいと思っていたり、React+firebaseなどのDBとの連携などの動画などがあればぜひ購入したいと思いました。\nまた新しい動画ぜひ買わせてもらいます！"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "俊樹 杉山",
+    "Timestamp": "2019-12-22 04:32:37+00:00",
+    "Rating": "5.0",
+    "Comment": "I'm a beginner of React, and this lecture is very helpful for me. Thank you for a very nice lecture about React hooks."
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "r- kaji",
+    "Timestamp": "2019-12-16 06:42:14+00:00",
+    "Rating": "5.0",
+    "Comment": "Reactもyarnも全くの初心者だったけど、動画を見ながら進められたので挫折せずに学ぶことができた。Reactの新しいバージョンで実装されたContext APIの使用方法も紹介されているのがよかった。この講座以前にnodeやgitをインストールしていたので環境設定でかなり多くのエラーが出たけど、ネットで検索して一つづつ解決できた。Reactの書籍を読む前にこの動画を見ておいてよかったと思う。"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "高井",
+    "Timestamp": "2019-12-14 15:36:50+00:00",
+    "Rating": "5.0",
+    "Comment": "routerはラウターではなくルーターではないでしょうか＞"
+  },
+  {
+    "Course Name": "モジュールバンドラー webpack を1日で習得！フルスクラッチでインストールからカスタマイズまでを理解する",
+    "Student Name": "Miyuki Shoji",
+    "Timestamp": "2019-12-13 15:06:54+00:00",
+    "Rating": "5.0",
+    "Comment": "エラーも一緒に出してくれるので、こんなふうに解決していくのか・・と理解できるのと、解説が丁寧でわかりやすいです！"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "Yudai Takiguchi",
+    "Timestamp": "2019-12-08 06:29:19+00:00",
+    "Rating": "5.0",
+    "Comment": "ただ流行っているから、という興味から受講しました。私自身は普段はバックエンドの開発がメインでフロントエンドとはあまり縁がなく、苦手なジャンルではあったのですが、説明が丁寧でとても分かり易かったです。"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "Satoshi Akazawa",
+    "Timestamp": "2019-12-08 02:26:39+00:00",
+    "Rating": "5.0",
+    "Comment": "とても大変でしたが、楽しかったです。私にとってはとても難易度の高いコースでした。\nというのも、そもそも私はjavascriptを学んだことがありません。そんな中でのReactアプリケーション作成でしたのでわからないことや手詰まり、ミスタイプなどなど様々な困難がありました。ですがレッスンの終盤、Material-UIの適用あたりからアプリケーションが目に見えて出来上がるのを感じて楽しくてしかたがなかったです。"
+  },
+  {
+    "Course Name": "モジュールバンドラー webpack を1日で習得！フルスクラッチでインストールからカスタマイズまでを理解する",
+    "Student Name": "Eisuke Takeuchi",
+    "Timestamp": "2019-12-07 19:04:15+00:00",
+    "Rating": "5.0",
+    "Comment": "簡潔な説明と、わからない時は質問ウェルカムの姿勢が心地よかったです。各レクチャーの最後の音楽が楽しみでした。"
+  },
+  {
+    "Course Name": "モジュールバンドラー webpack を1日で習得！フルスクラッチでインストールからカスタマイズまでを理解する",
+    "Student Name": "上地航平 男",
+    "Timestamp": "2019-12-03 10:41:18+00:00",
+    "Rating": "5.0",
+    "Comment": "このコースで、フロントエンドを初めてがっつり学べた気がした！\n　以前からrails6を設定していて、webpackerの概念が出てきた際に「なんで？rails6でrails sで起動するのにwebpacker必要なの？」と疑問でした！\n　ここでは今まで勘違いしていた、webpackerとwebpackの違いに改めて気がつくことができました。そしてまだまだ勉強中ですが、「webpack」「javascript」「modules」について深く学べる教材だと感じました。"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "Ono Hiroki",
+    "Timestamp": "2019-12-01 04:41:27+00:00",
+    "Rating": "5.0",
+    "Comment": "React Hookについて学びたいと思っていたので、とても有意義な講義でした。アプリケーション開発を通して、ReactのHook機能が一通り学べると思います。gitを使ったバージョン管理もされているので復習もしやすいです。講義を見ながらコーディングしていましたが、動かないコードはなく、特に不明点もなく学べました。これからはReactアプリをガンガン作ってより知識を定着させたいと思います。"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "Ono Hiroki",
+    "Timestamp": "2019-11-30 04:22:14+00:00",
+    "Rating": "5.0",
+    "Comment": "React初心者です。職場にReactを導入することを提案しようと思い、まずは知識をつけるために受講しました。Reactを使ったCRUDの実装方法を学ぶことができて大変有意義な講義だっと思います。特に不明点もありませんでした。しかし、覚えることがたくさんあるので、一回の視聴だけではなく、繰り返し何度も手を動かしながらアプリケーションを作る事が大切だと思います。この講義ではGitによるアプリケーションの管理をしているので、講義終了後の振り返りも容易だと思います。"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのためのGraphQL with React 入門",
+    "Student Name": "Ono Hiroki",
+    "Timestamp": "2019-11-27 14:17:12+00:00",
+    "Rating": "5.0",
+    "Comment": "GraphQLを職場に提案するために受講しました。基礎から応用(アプリ開発)まで一通り学べました。また不明点についても丁寧に回答いただけたと思います。また、Gitの使い方も参考になりました。Reactの知識がないと「？」と部分がありますが、受講するには問題ないレベルです。次は、Reactの講座を受けてみようと思いました。"
+  },
+  {
+    "Course Name": "ハンズオンで学ぶRuby on Rails 6<Action Textを支えるデータベースアソシエーション編>",
+    "Student Name": "上地航平 男",
+    "Timestamp": "2019-11-26 01:50:53+00:00",
+    "Rating": "5.0",
+    "Comment": "rails6での新機能 [ActionText] の挙動をわかりやすく詳しく教えていただけました。\n今後のポートフォリオ作成に組み込んで見ようと思いました！テーブルやモデルなどのデータ構造など１週では完全に理解が追いついていない所も多々ありましたので、ポートフォリオ作成と同時進行で２周目も勉強させて頂きます！\n良質なレクチャーありがとうございました！\n\nわがままなのですが、今回用意されいるDocker hubを経由したDocker-composeによる環境構築の手法などを解説頂けるレクチャーなどありましたらとても参考になります！"
+  },
+  {
+    "Course Name": "モジュールバンドラー webpack を1日で習得！フルスクラッチでインストールからカスタマイズまでを理解する",
+    "Student Name": "Ono Hiroki",
+    "Timestamp": "2019-11-24 08:11:01+00:00",
+    "Rating": "5.0",
+    "Comment": "勉強になりました！webpackって何なの？という疑問が払拭されたと思います。サーバーサイドエンジニアにとって、フロントエンドの環境設定は難しすぎで結構苦戦していましたが、このwebpackという技術を使えば、職場の課題を解決できそうです！！"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "Sawa Wo",
+    "Timestamp": "2019-11-23 18:32:04+00:00",
+    "Rating": "5.0",
+    "Comment": "このLessonを通じて、React-Reduxについてめちゃくちゃ理解が進みました。\nMaterial UIについて学習中で不明な点が多くありましたが、こちらのLessonで特有の作法を把握することができました。"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "だい もり",
+    "Timestamp": "2019-11-22 14:09:16+00:00",
+    "Rating": "5.0",
+    "Comment": "説明がわかりやすい。\n現時点でモダンな書き方になっていると思われる。\n可読性の高いコードを書こうとする点がよかった。"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "森田達也",
+    "Timestamp": "2019-11-12 16:14:57+00:00",
+    "Rating": "5.0",
+    "Comment": "非常にわかりやすかった　別講座も受講したい"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "Daichi Fujimoto",
+    "Timestamp": "2019-11-12 02:17:53+00:00",
+    "Rating": "5.0",
+    "Comment": "説明は丁寧で簡潔、的を射ておりとてもわかりやすかったです。\n\n当方、Vue.jsの経験はありますが、Reactは簡単なサンプルコードを動かした程度の初心者でしたが、特に詰まることもなく理解することができたと実感しています。ただ、親・子コンポーネント、propsなどが当たり前のように出てくるので、このへんがわからないフレームワーク未経験の方には厳しいと思います（こちらはコースの対象受講者の記載通りかと思います）\n\nこれをきっかけに、Reactについてより深く理解したいと思うようになりましたので、旧来の書き方、ルーティングなどを今後勉強していきたいと思います。"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "Masashi Furuta",
+    "Timestamp": "2019-11-09 10:46:58+00:00",
+    "Rating": "5.0",
+    "Comment": "解説が丁寧でわかりやすかったです。"
+  },
+  {
+    "Course Name": "モジュールバンドラー webpack を1日で習得！フルスクラッチでインストールからカスタマイズまでを理解する",
+    "Student Name": "達也 柿野",
+    "Timestamp": "2019-11-06 17:41:44+00:00",
+    "Rating": "5.0",
+    "Comment": "9月からHTML、CSSを学び始めた初学者です。そんな私でも大変わかりやすくつまづく事無く進めることができ、成長を実感できて達成感が非常に高い良い教材でした。次はreactに挑戦してみようと思います。ありがとうございました。"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "OSAMU KAWACHI",
+    "Timestamp": "2019-10-16 11:19:29+00:00",
+    "Rating": "5.0",
+    "Comment": "わかりやすいです。"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "h- yabi",
+    "Timestamp": "2019-10-14 02:06:52+00:00",
+    "Rating": "5.0",
+    "Comment": "声も聞きやすく、説明の粒度も満足できました。"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "Hide Nozawa",
+    "Timestamp": "2019-10-12 12:43:11+00:00",
+    "Rating": "5.0",
+    "Comment": "JavaScriptの基本を抑えた状態で学んで最初は戸惑いながら学習していたのですが、アプリを作成していくうちにReactの基本などを抑えられたかなと思います。\ngitに関しても深く学んではいなかった為、今回の講座で結構慣れてきた気もします。\nJavaScriptを学んでいくうちにどんどん好きな言語になってきたので今回学んだReact,Reduxを使用してWEBアプリケーションの開発を続けていきたいです。\nありがとうございました。"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "SHO IKEDA",
+    "Timestamp": "2019-10-07 13:53:00+00:00",
+    "Rating": "5.0",
+    "Comment": "いきなりTodoアプリではなくカウンターアプリから入るためReduxの理解がしやすかった\n赤いボタンよかった"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "祐輝 横地",
+    "Timestamp": "2019-09-29 14:13:28+00:00",
+    "Rating": "5.0",
+    "Comment": "Reactについて全く知らない状態からReactにおけるCRUDを学ぶことができた。\nRails APIとの連携を例にした実践的なアプリケーションでとても良かったと思います。"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "dicek 88",
+    "Timestamp": "2019-09-29 06:45:53+00:00",
+    "Rating": "5.0",
+    "Comment": "とても分かりやすく勉強になりました。"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "Yohei Nozai",
+    "Timestamp": "2019-09-17 14:05:30+00:00",
+    "Rating": "5.0",
+    "Comment": "Hooksの基礎から、実装まで学ぶことができて満足です！ありがとうございました。"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "大石 耕司",
+    "Timestamp": "2019-09-07 06:20:10+00:00",
+    "Rating": "5.0",
+    "Comment": "React Redux講座もよかったですが、今回はさらに丁寧に教えていただいているように感じました！また、コードの文字が大きくなって見やすかったです！\n\nひとつ修正依頼で、31番目の講座のタイトルがタイポしているので「locaStorageの各種〜」→「localStorageの各種〜」に修正お願いします。\n\n今後とも新しい講座、楽しみにしております。\nありがとうございました！"
+  },
+  {
+    "Course Name": "モジュールバンドラー webpack を1日で習得！フルスクラッチでインストールからカスタマイズまでを理解する",
+    "Student Name": "Yohei Nozai",
+    "Timestamp": "2019-09-06 04:08:59+00:00",
+    "Rating": "5.0",
+    "Comment": "webpackのビルドの要点について、しっかり理解できる講座だと思う。これをやれば基本的な設定をすることができるようになる。\nwebpackのドキュメントを読む力がつくように思う"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "Yohei Nozai",
+    "Timestamp": "2019-09-04 07:22:41+00:00",
+    "Rating": "5.0",
+    "Comment": "React/Reduxの基本から、開発の流れについて把握できるとても良い講座でした。公式のドキュメントを読んで、さらに理解を深めたいと思います。"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "Gol sAw",
+    "Timestamp": "2019-09-03 08:49:55+00:00",
+    "Rating": "5.0",
+    "Comment": "Reactを実務で使った経験はありませんが、既にReactのコースをいくつか受けていたので難なく学習が進みました。\n基礎的な部分は適切に省略されていて、Hooksを手っ取り早く学習するのにとても有用でした。\n（まさに自分が学習したかった内容だったので嬉しかったです。）"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのためのGraphQL with React 入門",
+    "Student Name": "Kyosuke Tsuneda",
+    "Timestamp": "2019-08-31 15:34:43+00:00",
+    "Rating": "5.0",
+    "Comment": "\bReactとApolloを案件で使う必要があったので、本コースを通じて勉強させていただきました。\n説明も丁寧で、非常にわかりやすかったです！ありがとうございました！"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "s oyama",
+    "Timestamp": "2019-08-28 07:45:07+00:00",
+    "Rating": "5.0",
+    "Comment": "わたしはプログラミング経験が浅いのですが\nわたしの質問に対して\n講師より すごく丁寧に回答を頂けました！\n正直 質問するのもビビってましたが、\n質問して良かったし、何より回答が丁寧でモチベーションが上がりました。\nまだ講座の途中ですが、ひとまず感謝の気持ちを込めて 書かせて頂きました。\n度々 質問をすることもあると思いますが、引き続きよろしくお願い致します。"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "masanori funaki",
+    "Timestamp": "2019-08-24 12:35:04+00:00",
+    "Rating": "5.0",
+    "Comment": "説明が非常にわかりやすいです。声がハキハキしていて聞き取りやすいし、github にもコードがあがっているので確認もしやすいです。\nそれに加えて。レクチャー動画を通して、リファクタリングの仕方や公式ドキュメントの調べ方の説明もあったりするので、そのあたりのスキルの勉強にもなります。\n大変素晴らしい動画です！！"
+  },
+  {
+    "Course Name": "モジュールバンドラー webpack を1日で習得！フルスクラッチでインストールからカスタマイズまでを理解する",
+    "Student Name": "藤野真由佳 fujino",
+    "Timestamp": "2019-08-17 18:29:52+00:00",
+    "Rating": "5.0",
+    "Comment": "とても丁寧な解説でわかりやすかったです。予期しないエラーが出た場合の対応はどのようにしているのか、ドキュメントはどのように追って実装しているのかを動画に残してくださっており、たいへん参考になります。"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "中村",
+    "Timestamp": "2019-08-11 17:54:57+00:00",
+    "Rating": "5.0",
+    "Comment": "大変分りやすかったです！"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "John_meron",
+    "Timestamp": "2019-08-11 03:41:02+00:00",
+    "Rating": "5.0",
+    "Comment": "良い！"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "Keyyang",
+    "Timestamp": "2019-07-09 13:23:29+00:00",
+    "Rating": "5.0",
+    "Comment": "大変わかりやすく楽しく学ばせていただいてます。"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "広輝 新宮",
+    "Timestamp": "2019-07-07 07:10:01+00:00",
+    "Rating": "5.0",
+    "Comment": "普段angularを使っているのですが、react hooks 面白かったです。ありがとうございました。\nuseEffectとかを使っているときに、angularのeffect()を使っているような気持ちになりました。"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "大石 耕司",
+    "Timestamp": "2019-07-05 22:42:32+00:00",
+    "Rating": "5.0",
+    "Comment": "ReactとReduxに関してまるっきり初心者の私でもわかりやすかったです。講座を全て終えた今では、ReactとReduxに対して心の壁がなくなりました。今回学んだことをベースに、今後の開発、学習に取り組んでいこうと思います。"
+  },
+  {
+    "Course Name": "React Hooks 入門 - HooksとReduxを組み合わせて最新のフロントエンド状態管理手法を習得",
+    "Student Name": "python Hack",
+    "Timestamp": "2019-07-04 01:05:10+00:00",
+    "Rating": "5.0",
+    "Comment": "Hooksの扱い方に少し戸惑っていたので、この講座を受講できて本当によかったです。これでReactの実装の幅が広がりました！"
+  },
+  {
+    "Course Name": "モジュールバンドラー webpack を1日で習得！フルスクラッチでインストールからカスタマイズまでを理解する",
+    "Student Name": "三田真大",
+    "Timestamp": "2019-06-28 02:48:32+00:00",
+    "Rating": "5.0",
+    "Comment": "知りたいことがまさに解説されていました！"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "三田真大",
+    "Timestamp": "2019-06-26 17:10:32+00:00",
+    "Rating": "5.0",
+    "Comment": "手取り足取りなので、とてもわかりやすいです。"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "ウエノトシヒロ",
+    "Timestamp": "2019-06-10 13:02:45+00:00",
+    "Rating": "5.0",
+    "Comment": "Redux の機能を使いこなせていなかったので、ここでよく理解できました！ありがとうございます。"
+  },
+  {
+    "Course Name": "モジュールバンドラー webpack を1日で習得！フルスクラッチでインストールからカスタマイズまでを理解する",
+    "Student Name": "ren y",
+    "Timestamp": "2019-05-27 07:40:32+00:00",
+    "Rating": "5.0",
+    "Comment": "webpackに関する基本的なことを学ぶには最適でした。"
+  },
+  {
+    "Course Name": "モジュールバンドラー webpack を1日で習得！フルスクラッチでインストールからカスタマイズまでを理解する",
+    "Student Name": "トモチカ コミネ",
+    "Timestamp": "2019-05-25 16:15:15+00:00",
+    "Rating": "5.0",
+    "Comment": "webpackについて丁寧に解説しながら勧めてくれていて、理解が深まる。\n設定ファイルとかネットでいくらでも落ちてるけど、それぞれの設定値の意味合いとか、活用の仕方を理解するのにちょうど良い気がしている（まだコース途中だけど）"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのためのGraphQL with React 入門",
+    "Student Name": "kenji morita",
+    "Timestamp": "2019-05-19 00:49:38+00:00",
+    "Rating": "5.0",
+    "Comment": "素晴らしかったです。この動画で基本を学んで、実際の案件で「経験あり」として参入、その後もスムーズに入れました。また理解不足のところを後々見ることでそれが解消されました。丁寧な説明も助かりました。"
+  },
+  {
+    "Course Name": "モジュールバンドラー webpack を1日で習得！フルスクラッチでインストールからカスタマイズまでを理解する",
+    "Student Name": "Hiroaki Iwamori",
+    "Timestamp": "2019-05-12 15:23:41+00:00",
+    "Rating": "5.0",
+    "Comment": "大変参考になりました。\nこれを実際の現場でも試してみようと思います。"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "秋山一希",
+    "Timestamp": "2019-05-11 05:35:35+00:00",
+    "Rating": "5.0",
+    "Comment": "一つ一つの解説がとてもわかりやすいです。話のスピードも聞き取りやすく、とても良い教材だと思います。"
+  },
+  {
+    "Course Name": "モジュールバンドラー webpack を1日で習得！フルスクラッチでインストールからカスタマイズまでを理解する",
+    "Student Name": "takahiro mitake",
+    "Timestamp": "2019-04-03 14:48:54+00:00",
+    "Rating": "5.0",
+    "Comment": "css-loader と style-loader の読み込み順など、ハマりポイントを丁寧に解説してくれていてとても良い。"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "キツネ kitsune",
+    "Timestamp": "2019-03-15 03:49:56+00:00",
+    "Rating": "5.0",
+    "Comment": "書籍などでReactを学習しようとしてもわかりづらかったり、reactはreact、reduxはreduxとまとめて学習するのが難しかったのでこの講座でreactとreduxをまとめて学習できてとても良かったです。"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "奥野輔",
+    "Timestamp": "2019-03-07 00:14:18+00:00",
+    "Rating": "5.0",
+    "Comment": "他の動画コンテンツなどと比較しても大変丁寧な解説でとてもわかりやすいです。"
+  },
+  {
+    "Course Name": "モジュールバンドラー webpack を1日で習得！フルスクラッチでインストールからカスタマイズまでを理解する",
+    "Student Name": "瀬尾 直登",
+    "Timestamp": "2019-03-06 11:01:49+00:00",
+    "Rating": "5.0",
+    "Comment": "説明がわかりやすかったです。\n必要なパッケージと公式サイトのどの部分に設定方法が書いてあるかの説明があって良かったです。"
+  },
+  {
+    "Course Name": "モジュールバンドラー webpack を1日で習得！フルスクラッチでインストールからカスタマイズまでを理解する",
+    "Student Name": "なかもと",
+    "Timestamp": "2019-02-24 10:33:41+00:00",
+    "Rating": "5.0",
+    "Comment": "webpackに関して苦手意識があるとreactなど学ぶ際にハードルが上がるかと思います。このコースから学ぶとreactも学び易くなるのではと思います。"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "GR M",
+    "Timestamp": "2019-02-05 21:22:26+00:00",
+    "Rating": "5.0",
+    "Comment": "Q&Aに投稿する質問に大変素早く、それも丁寧に回答していただけたのが素晴らしかったです。内容も基本を網羅していてよかったです。２周してみて理解が深まりました。"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "杉田雅夫",
+    "Timestamp": "2019-02-03 14:34:04+00:00",
+    "Rating": "5.0",
+    "Comment": "Ractを学びたかったのですが色々ある中こちらのコースがボリューム的にも良さそうだったので受講しました。\n進行速度や内容に特に不満も出ないまま最後まで進んで今では「後は自分で何となく進められそう」と言う印象です。\n見返しながら更に理解を深めていきたいと思います。"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "ich1 (イチ)",
+    "Timestamp": "2019-02-02 13:06:58+00:00",
+    "Rating": "5.0",
+    "Comment": "わかりやすく丁寧で期待以上です"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "Mitsuyoshi Matsuo",
+    "Timestamp": "2019-01-31 16:10:17+00:00",
+    "Rating": "5.0",
+    "Comment": "React・Reduxで基本的なCRUDアプリの実装を短期間で体験することができました。Reduxの各要素の意味合いや繋がりなど理解すべきことが多く、シンプルな実装にとどめていただいていたので理解しやすかったです。コンパクトにまとまったカリキュラムなので、何度も復習して理解を深めていきたいと思います。ありがとうございました。"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "Akifumi Yoshimura",
+    "Timestamp": "2019-01-29 12:43:02+00:00",
+    "Rating": "5.0",
+    "Comment": "途中でわからないところも質問に丁寧に答えていただけて助かりました。この動画のおかげで次のステップへ歩めたと思います。ありがとうございました。他の動画も購入しました。"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "junya yamada",
+    "Timestamp": "2019-01-29 00:25:39+00:00",
+    "Rating": "5.0",
+    "Comment": "簡潔な説明で分かりやすかったです。またディレクトリ構成やredux-form等を使用しますので、極めて実践的だったと思います。"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "Jumpei Chikamori",
+    "Timestamp": "2019-01-15 13:27:19+00:00",
+    "Rating": "5.0",
+    "Comment": "テンポがよく、説明もわかりやすく、とても良い。"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "Yohei Nakao",
+    "Timestamp": "2018-12-27 07:58:58+00:00",
+    "Rating": "5.0",
+    "Comment": "独学では、中々、開発の段取りやフローが学べず、その点、このコースでは、Gitを利用した開発の段取りが学べる点が非常にありがたかったです。"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "takahiro mitake",
+    "Timestamp": "2018-12-11 16:37:13+00:00",
+    "Rating": "5.0",
+    "Comment": "React・Reduxだけでなく、ReduxFormやMaterial-UIの使い方まで解説されており、非常に助かりました。"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "Halkichi +",
+    "Timestamp": "2018-11-14 22:47:03+00:00",
+    "Rating": "5.0",
+    "Comment": "gitの使い方もフォローしていてありがたいです。"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "T.T",
+    "Timestamp": "2018-11-02 04:19:20+00:00",
+    "Rating": "5.0",
+    "Comment": "非常にわかりやすかった"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのためのGraphQL with React 入門",
+    "Student Name": "Yohei Nakao",
+    "Timestamp": "2018-11-01 20:25:08+00:00",
+    "Rating": "5.0",
+    "Comment": "公式ページで見てもよくわからなかったGraphQLがわかりやすく解説されていて大変助かりました。"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのためのGraphQL with React 入門",
+    "Student Name": "Naoki Morita",
+    "Timestamp": "2018-10-27 05:47:44+00:00",
+    "Rating": "5.0",
+    "Comment": "GraphQLは言葉としては知っていて意識はしていたものの、曖昧な理解でした。このコースを通して大まかな理解と、実際のアプリケーションでのユースケースを確認できました。\n\nとてもわかりやすい解説で迷うことなくコースをやり遂げることができます。"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "おく おく",
+    "Timestamp": "2018-10-10 11:00:57+00:00",
+    "Rating": "5.0",
+    "Comment": "講義そのものもわかりやすいですが、質問に対する回答も早めにいただけて、かつわかりやすい点がよかったです。購入してよかったです。すごい満足です。まだ受講終わってませんが笑"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "Hiroaki Date",
+    "Timestamp": "2018-09-09 17:02:25+00:00",
+    "Rating": "5.0",
+    "Comment": "一項目ずつの説明がシンプルでわかりやすいです。ハマりどころがないです"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "Justin Nguyen",
+    "Timestamp": "2018-08-19 06:06:22+00:00",
+    "Rating": "5.0",
+    "Comment": "Even though the course did not go into detail about much of the little details, you are able to go through the course asking yourself why did he use that? And then you can look up the documentation and think about how you can use it to apply it to your own projects.\n\nThe instructor is very engaging and gives feedback as soon as he can. I am looking forward to his next course.\n\nDownside: The volume of all the videos are low. Hoping in future lessons or possibly remaster the volume of the lessons so you are able to hear what the instructor is saying instead of turning up the volume to the max."
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "Keisuke Umegaki",
+    "Timestamp": "2018-08-10 22:46:00+00:00",
+    "Rating": "5.0",
+    "Comment": "React, Redux, Git の知識が実際に動画を見ながら、カウンターアプリやイベント作成アプリを外部APIと連携させてコーディングしてみることで、理解できました。\n行き詰まり質問した際には、すばやく丁寧に対応してくださいました。\nありがとうございました。０から自分にアプリケーションを作ってみたいと思います。"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "Mizuki Kubota",
+    "Timestamp": "2018-07-05 18:05:11+00:00",
+    "Rating": "5.0",
+    "Comment": "うおおおおおおお\ngitの正しい使い方まで身についたぜ！"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "Naomi Asano",
+    "Timestamp": "2018-07-04 01:01:05+00:00",
+    "Rating": "5.0",
+    "Comment": "デザイナーからフロントエンジニアになったばかりの見習いエンジニアですが、とても進めやすいです。今の所、難しいことはなくサクサクと進められています。"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "山本哲生 山本",
+    "Timestamp": "2018-06-18 13:51:39+00:00",
+    "Rating": "5.0",
+    "Comment": "reactにreduxを導入するやり方を色々な本を読んで勉強してたんですが、いまいちパッと来ませんでした。しかし、本講座では非常にわかりやすく分割してあり、理解が進みました。\nありがとうございました！！"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "Katsuya Oda",
+    "Timestamp": "2018-05-18 04:35:14+00:00",
+    "Rating": "5.0",
+    "Comment": "ReactとReduxの説明は非常に良かったです。CRUDの実装で終わってしまったので、次回作としてはもっとUXが高いUIの実装を説明していただけると嬉しいです。例えば、チャットアプリのUIやソーシャルグラフのUIなどを期待しています。\n\n免責事項: 同じ職場で働いています"
+  },
+  {
+    "Course Name": "フロントエンドエンジニアのための React ・ Redux アプリケーション開発入門",
+    "Student Name": "Naoki Morita",
+    "Timestamp": "2018-05-05 14:10:08+00:00",
+    "Rating": "5.0",
+    "Comment": "とてもわかりやすく、必要十分なシンプルな説明で進めやすかったです。"
+  }
+]
